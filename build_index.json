@@ -1,0 +1,3124 @@
+{
+  "schema_version": 1,
+  "data_version": "2026.08.06.1",
+  "updated_at": "2026-08-06T00:00:00Z",
+  "data": [
+    {
+      "id": 1,
+      "slug": "miya",
+      "name": "Miya",
+      "skin_name": "Moonlight Archer",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The Priestess of the Moon and protector of the Moonlit Forest",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Miya-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Miya-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/miya.json",
+      "builds_endpoint": "game-data/v1/builds/miya.json",
+      "visual_endpoint": "catalog/v1/visual/miya.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/miya.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "slug": "balmond",
+      "name": "Balmond",
+      "skin_name": "Bloody Beast",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The leader of the Orc Legion.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Balmond-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Balmond-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/balmond.json",
+      "builds_endpoint": "game-data/v1/builds/balmond.json",
+      "visual_endpoint": "catalog/v1/visual/balmond.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/balmond.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "slug": "saber",
+      "name": "Saber",
+      "skin_name": "Wandering Sword",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle",
+        "Roaming"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A swordsman in pursuit of invincibility, used by Laboratory 1718.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Saber-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Saber-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/saber.json",
+      "builds_endpoint": "game-data/v1/builds/saber.json",
+      "visual_endpoint": "catalog/v1/visual/saber.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/saber.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "slug": "alice",
+      "name": "Alice",
+      "skin_name": "Queen of Blood",
+      "roles": [
+        "Mage",
+        "Tank"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Queen of the Blood Demons and one of the two dominant powers in the Abyss.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alice-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alice-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/alice.json",
+      "builds_endpoint": "game-data/v1/builds/alice.json",
+      "visual_endpoint": "catalog/v1/visual/alice.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/alice.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "slug": "nana",
+      "name": "Nana",
+      "skin_name": "Sweet Leonin",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Little Leonin with no worries.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Nana-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Nana-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/nana.json",
+      "builds_endpoint": "game-data/v1/builds/nana.json",
+      "visual_endpoint": "catalog/v1/visual/nana.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/nana.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "slug": "tigreal",
+      "name": "Tigreal",
+      "skin_name": "Warrior of Dawn",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Leader of the Light's Order, guardian of the Moniyan Empire.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Tigreal-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Tigreal-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/tigreal.json",
+      "builds_endpoint": "game-data/v1/builds/tigreal.json",
+      "visual_endpoint": "catalog/v1/visual/tigreal.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/tigreal.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "slug": "alucard",
+      "name": "Alucard",
+      "skin_name": "Demon Hunter",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Demon hunter who detests the darkness.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alucard-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alucard-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/alucard.json",
+      "builds_endpoint": "game-data/v1/builds/alucard.json",
+      "visual_endpoint": "catalog/v1/visual/alucard.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/alucard.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "slug": "karina",
+      "name": "Karina",
+      "skin_name": "Shadow Blade",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Killer from the Dark Elf tribe who is fighting to rescue her sister Selena.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Karina-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Karina-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/karina.json",
+      "builds_endpoint": "game-data/v1/builds/karina.json",
+      "visual_endpoint": "catalog/v1/visual/karina.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/karina.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 9,
+      "slug": "akai",
+      "name": "Akai",
+      "skin_name": "Panda Warrior",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming",
+        "Jungle"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "The almighty panda hero of Stream Valley.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Akai-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Akai-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/akai.json",
+      "builds_endpoint": "game-data/v1/builds/akai.json",
+      "visual_endpoint": "catalog/v1/visual/akai.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/akai.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 10,
+      "slug": "franco",
+      "name": "Franco",
+      "skin_name": "Frozen Warrior",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Brave permafrost warrior, Bane's sworn enemy.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Franco-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Franco-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/franco.json",
+      "builds_endpoint": "game-data/v1/builds/franco.json",
+      "visual_endpoint": "catalog/v1/visual/franco.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/franco.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 11,
+      "slug": "bane",
+      "name": "Bane",
+      "skin_name": "Frozen King",
+      "roles": [
+        "Fighter",
+        "Mage"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Cruel pirate leader, Franco's sworn enemy.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Bane-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Bane-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/bane.json",
+      "builds_endpoint": "game-data/v1/builds/bane.json",
+      "visual_endpoint": "catalog/v1/visual/bane.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/bane.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 12,
+      "slug": "bruno",
+      "name": "Bruno",
+      "skin_name": "The Protector",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The captain of the Eruditio Rangers that protects the city with his amazing football skills.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Bruno-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Bruno-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/bruno.json",
+      "builds_endpoint": "game-data/v1/builds/bruno.json",
+      "visual_endpoint": "catalog/v1/visual/bruno.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/bruno.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "slug": "clint",
+      "name": "Clint",
+      "skin_name": "West Justice",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "A sharpshooter full of righteousness and justice.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Clint-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Clint-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/clint.json",
+      "builds_endpoint": "game-data/v1/builds/clint.json",
+      "visual_endpoint": "catalog/v1/visual/clint.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/clint.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "slug": "rafaela",
+      "name": "Rafaela",
+      "skin_name": "Wings of Holiness",
+      "roles": [
+        "Support"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "An angel loved and respected by the people of this world.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Rafaela-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Rafaela-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/rafaela.json",
+      "builds_endpoint": "game-data/v1/builds/rafaela.json",
+      "visual_endpoint": "catalog/v1/visual/rafaela.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/rafaela.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 15,
+      "slug": "eudora",
+      "name": "Eudora",
+      "skin_name": "Lightning Weaver",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Dean of the Ulturia School of the Magic Academy, Light Elf.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Eudora-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Eudora-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/eudora.json",
+      "builds_endpoint": "game-data/v1/builds/eudora.json",
+      "visual_endpoint": "catalog/v1/visual/eudora.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/eudora.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 16,
+      "slug": "zilong",
+      "name": "Zilong",
+      "skin_name": "Spear of Dragon",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Guardian of the Dragon Altar and the Oriental Fighter who inherited the Cloud Dragon's power.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zilong-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zilong-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/zilong.json",
+      "builds_endpoint": "game-data/v1/builds/zilong.json",
+      "visual_endpoint": "catalog/v1/visual/zilong.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/zilong.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 17,
+      "slug": "fanny",
+      "name": "Fanny",
+      "skin_name": "Blade Dancer",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A blade dancer in the battlefield.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Fanny-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Fanny-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/fanny.json",
+      "builds_endpoint": "game-data/v1/builds/fanny.json",
+      "visual_endpoint": "catalog/v1/visual/fanny.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/fanny.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 18,
+      "slug": "layla",
+      "name": "Layla",
+      "skin_name": "Energy Gunner",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The backbone of the Eruditio Rangers who is also known as the Shining Star.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Layla-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Layla-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/layla.json",
+      "builds_endpoint": "game-data/v1/builds/layla.json",
+      "visual_endpoint": "catalog/v1/visual/layla.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/layla.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 19,
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "skin_name": "Son of Minos",
+      "roles": [
+        "Tank",
+        "Support"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Minoan prince determined to restore his homeland.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Minotaur-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Minotaur-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/minotaur.json",
+      "builds_endpoint": "game-data/v1/builds/minotaur.json",
+      "visual_endpoint": "catalog/v1/visual/minotaur.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/minotaur.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 20,
+      "slug": "lolita",
+      "name": "Lolita",
+      "skin_name": "Steel Elf",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Member of the Eruditio Rangers and protector of the Leviathan workshop.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lolita-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lolita-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lolita.json",
+      "builds_endpoint": "game-data/v1/builds/lolita.json",
+      "visual_endpoint": "catalog/v1/visual/lolita.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lolita.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 21,
+      "slug": "hayabusa",
+      "name": "Hayabusa",
+      "skin_name": "Crimson Shadow",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The young leader of the Shadow Sect who wields his blade through moonless nights, walking the path of nindo without fear.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hayabusa-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hayabusa-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/hayabusa.json",
+      "builds_endpoint": "game-data/v1/builds/hayabusa.json",
+      "visual_endpoint": "catalog/v1/visual/hayabusa.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/hayabusa.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 22,
+      "slug": "freya",
+      "name": "Freya",
+      "skin_name": "Valkyrie",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "The Valkyrie who guards the Northern Vale.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Freya-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Freya-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/freya.json",
+      "builds_endpoint": "game-data/v1/builds/freya.json",
+      "visual_endpoint": "catalog/v1/visual/freya.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/freya.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 23,
+      "slug": "gord",
+      "name": "Gord",
+      "skin_name": "Professor of the Mystics",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Dean of hte Icarus School of the Magic Academy.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Gord-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Gord-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/gord.json",
+      "builds_endpoint": "game-data/v1/builds/gord.json",
+      "visual_endpoint": "catalog/v1/visual/gord.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/gord.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 24,
+      "slug": "natalia",
+      "name": "Natalia",
+      "skin_name": "Bright Claw",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "An assassin exiled by the Empire.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Natalia-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Natalia-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/natalia.json",
+      "builds_endpoint": "game-data/v1/builds/natalia.json",
+      "visual_endpoint": "catalog/v1/visual/natalia.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/natalia.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 25,
+      "slug": "kagura",
+      "name": "Kagura",
+      "skin_name": "Onmyouji Master",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "A young spirit born of the deep longings stored within the Seimei Umbrella, she has finally stepped out of her dream, like a radiant bloom, in defiance of the dark night.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kagura-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Kagura-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/kagura.json",
+      "builds_endpoint": "game-data/v1/builds/kagura.json",
+      "visual_endpoint": "catalog/v1/visual/kagura.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/kagura.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 26,
+      "slug": "chou",
+      "name": "Chou",
+      "skin_name": "Kung Fu Boy",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane",
+        "Roaming"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A talented fighter with a heart of chivalry.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Chou-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Chou-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/chou.json",
+      "builds_endpoint": "game-data/v1/builds/chou.json",
+      "visual_endpoint": "catalog/v1/visual/chou.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/chou.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 27,
+      "slug": "sun",
+      "name": "Sun",
+      "skin_name": "Monkey King",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "The immortal Monkey King, resolute and unyielding like the mountain that bore him.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Sun-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Sun-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/sun.json",
+      "builds_endpoint": "game-data/v1/builds/sun.json",
+      "visual_endpoint": "catalog/v1/visual/sun.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/sun.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 28,
+      "slug": "alpha",
+      "name": "Alpha",
+      "skin_name": "Blade of Enmity",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A pure cyborg made by Laboratory 1718.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Alpha-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Alpha-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/alpha.json",
+      "builds_endpoint": "game-data/v1/builds/alpha.json",
+      "visual_endpoint": "catalog/v1/visual/alpha.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/alpha.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 29,
+      "slug": "ruby",
+      "name": "Ruby",
+      "skin_name": "Little Red Hood",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A girl who grew up with Roger's help.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Ruby-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Ruby-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/ruby.json",
+      "builds_endpoint": "game-data/v1/builds/ruby.json",
+      "visual_endpoint": "catalog/v1/visual/ruby.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/ruby.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 30,
+      "slug": "yi-sun-shin",
+      "name": "Yi Sun-shin",
+      "skin_name": "Paenlong Legend",
+      "roles": [
+        "Assassin",
+        "Marksman"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Leader of the City of the Dragon Fleet.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yi-Sun-shin-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yi-Sun-shin-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/yi-sun-shin.json",
+      "builds_endpoint": "game-data/v1/builds/yi-sun-shin.json",
+      "visual_endpoint": "catalog/v1/visual/yi-sun-shin.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/yi-sun-shin.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 31,
+      "slug": "moskov",
+      "name": "Moskov",
+      "skin_name": "Spear of Quiescence",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "A warrior of the desert that embraced the darkness to seek his revenger.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Moskov-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Moskov-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/moskov.json",
+      "builds_endpoint": "game-data/v1/builds/moskov.json",
+      "visual_endpoint": "catalog/v1/visual/moskov.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/moskov.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 32,
+      "slug": "johnson",
+      "name": "Johnson",
+      "skin_name": "Wild Engine",
+      "roles": [
+        "Tank",
+        "Support"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "A super cyborg who can transform into a car and lead his teammates into battle.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Johnson-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Johnson-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/johnson.json",
+      "builds_endpoint": "game-data/v1/builds/johnson.json",
+      "visual_endpoint": "catalog/v1/visual/johnson.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/johnson.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 33,
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "skin_name": "Starsoul Magician",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "A celestial traveler in the universe.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Cyclops-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Cyclops-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/cyclops.json",
+      "builds_endpoint": "game-data/v1/builds/cyclops.json",
+      "visual_endpoint": "catalog/v1/visual/cyclops.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/cyclops.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 34,
+      "slug": "estes",
+      "name": "Estes",
+      "skin_name": "Moon Elf King",
+      "roles": [
+        "Support"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Elf King who rules the Moon Elves.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Estes-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Estes-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/estes.json",
+      "builds_endpoint": "game-data/v1/builds/estes.json",
+      "visual_endpoint": "catalog/v1/visual/estes.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/estes.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 35,
+      "slug": "hilda",
+      "name": "Hilda",
+      "skin_name": "Power of Megalith",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Inheritor of the Power of the Megalith.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hilda-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hilda-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/hilda.json",
+      "builds_endpoint": "game-data/v1/builds/hilda.json",
+      "visual_endpoint": "catalog/v1/visual/hilda.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/hilda.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 36,
+      "slug": "aurora",
+      "name": "Aurora",
+      "skin_name": "Maiden of the Glacier",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "The Maiden of the Glacier who grants eternal remembrance in the legends of the North.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Aurora-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Aurora-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/aurora.json",
+      "builds_endpoint": "game-data/v1/builds/aurora.json",
+      "visual_endpoint": "catalog/v1/visual/aurora.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/aurora.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 37,
+      "slug": "lapu-lapu",
+      "name": "Lapu-Lapu",
+      "skin_name": "Courageous Blade",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Hero who defends the Vonetis Islands from outsiders.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lapu-Lapu-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lapu-Lapu-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lapu-lapu.json",
+      "builds_endpoint": "game-data/v1/builds/lapu-lapu.json",
+      "visual_endpoint": "catalog/v1/visual/lapu-lapu.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lapu-lapu.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 38,
+      "slug": "vexana",
+      "name": "Vexana",
+      "skin_name": "Shimmer of Hope",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "The young duchess guarding Necrokeep.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Vexana-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Vexana-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/vexana.json",
+      "builds_endpoint": "game-data/v1/builds/vexana.json",
+      "visual_endpoint": "catalog/v1/visual/vexana.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/vexana.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 39,
+      "slug": "roger",
+      "name": "Roger",
+      "skin_name": "Dire Wolf Hunter",
+      "roles": [
+        "Fighter",
+        "Marksman"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A werewolf wandering in the dark forest longing for revenge.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Roger-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Roger-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/roger.json",
+      "builds_endpoint": "game-data/v1/builds/roger.json",
+      "visual_endpoint": "catalog/v1/visual/roger.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/roger.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 40,
+      "slug": "karrie",
+      "name": "Karrie",
+      "skin_name": "Lost Star",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "Indifferent and powerful Yasson.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Karrie-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Karrie-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/karrie.json",
+      "builds_endpoint": "game-data/v1/builds/karrie.json",
+      "visual_endpoint": "catalog/v1/visual/karrie.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/karrie.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 41,
+      "slug": "gatotkaca",
+      "name": "Gatotkaca",
+      "skin_name": "Mighty Legend",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Warrior from the Arcadhem universe.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Gatotkaca-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Gatotkaca-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/gatotkaca.json",
+      "builds_endpoint": "game-data/v1/builds/gatotkaca.json",
+      "visual_endpoint": "catalog/v1/visual/gatotkaca.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/gatotkaca.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 42,
+      "slug": "harley",
+      "name": "Harley",
+      "skin_name": "Mage Genius",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The young mage whose powers awakened once thrust into danger and who now arrives at the Magic Academy to study.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Harley-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Harley-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/harley.json",
+      "builds_endpoint": "game-data/v1/builds/harley.json",
+      "visual_endpoint": "catalog/v1/visual/harley.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/harley.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 43,
+      "slug": "irithel",
+      "name": "Irithel",
+      "skin_name": "Jungle Heart",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The forest hunter with a smilodon.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Irithel-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Irithel-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/irithel.json",
+      "builds_endpoint": "game-data/v1/builds/irithel.json",
+      "visual_endpoint": "catalog/v1/visual/irithel.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/irithel.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 44,
+      "slug": "grock",
+      "name": "Grock",
+      "skin_name": "Fortress Titan",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Stone man awakened from sleep.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Grock-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Grock-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/grock.json",
+      "builds_endpoint": "game-data/v1/builds/grock.json",
+      "visual_endpoint": "catalog/v1/visual/grock.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/grock.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 45,
+      "slug": "argus",
+      "name": "Argus",
+      "skin_name": "Dark Angel",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "The angel who fell from light into darkness.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Argus-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Argus-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/argus.json",
+      "builds_endpoint": "game-data/v1/builds/argus.json",
+      "visual_endpoint": "catalog/v1/visual/argus.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/argus.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 46,
+      "slug": "odette",
+      "name": "Odette",
+      "skin_name": "Swan Princess",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Odette-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Odette-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/odette.json",
+      "builds_endpoint": "game-data/v1/builds/odette.json",
+      "visual_endpoint": "catalog/v1/visual/odette.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/odette.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 47,
+      "slug": "lancelot",
+      "name": "Lancelot",
+      "skin_name": "Blade of Roses",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Prodigal son and genius swordsman of House Baroque.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lancelot-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lancelot-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lancelot.json",
+      "builds_endpoint": "game-data/v1/builds/lancelot.json",
+      "visual_endpoint": "catalog/v1/visual/lancelot.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lancelot.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 48,
+      "slug": "diggie",
+      "name": "Diggie",
+      "skin_name": "Timekeeper",
+      "roles": [
+        "Support"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "The owl scholar who can control time.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Diggie-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Diggie-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/diggie.json",
+      "builds_endpoint": "game-data/v1/builds/diggie.json",
+      "visual_endpoint": "catalog/v1/visual/diggie.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/diggie.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 49,
+      "slug": "hylos",
+      "name": "Hylos",
+      "skin_name": "Grand Warden",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Centaur guarding the Misty Mountains.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hylos-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hylos-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/hylos.json",
+      "builds_endpoint": "game-data/v1/builds/hylos.json",
+      "visual_endpoint": "catalog/v1/visual/hylos.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/hylos.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 50,
+      "slug": "zhask",
+      "name": "Zhask",
+      "skin_name": "The King of Swarms",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "King of the Swarm who disrupts the balance of the universe.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zhask-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zhask-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/zhask.json",
+      "builds_endpoint": "game-data/v1/builds/zhask.json",
+      "visual_endpoint": "catalog/v1/visual/zhask.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/zhask.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 51,
+      "slug": "helcurt",
+      "name": "Helcurt",
+      "skin_name": "Shadowbringer",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The nightmare of the Abyss who's willing to betray anyone in order to survive.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Helcurt-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Helcurt-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/helcurt.json",
+      "builds_endpoint": "game-data/v1/builds/helcurt.json",
+      "visual_endpoint": "catalog/v1/visual/helcurt.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/helcurt.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 52,
+      "slug": "pharsa",
+      "name": "Pharsa",
+      "skin_name": "Wings of Vengeance",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Crow Princess of Askati Forest.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Pharsa-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Pharsa-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/pharsa.json",
+      "builds_endpoint": "game-data/v1/builds/pharsa.json",
+      "visual_endpoint": "catalog/v1/visual/pharsa.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/pharsa.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 53,
+      "slug": "lesley",
+      "name": "Lesley",
+      "skin_name": "Deadly Sniper",
+      "roles": [
+        "Marksman",
+        "Assassin"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "Adopted daughter of House Vance, a clandestine sniper.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lesley-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lesley-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lesley.json",
+      "builds_endpoint": "game-data/v1/builds/lesley.json",
+      "visual_endpoint": "catalog/v1/visual/lesley.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lesley.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 54,
+      "slug": "jawhead",
+      "name": "Jawhead",
+      "skin_name": "Steel Sweetheart",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Intelligent robot used to protect little Ailee.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Jawhead-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Jawhead-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/jawhead.json",
+      "builds_endpoint": "game-data/v1/builds/jawhead.json",
+      "visual_endpoint": "catalog/v1/visual/jawhead.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/jawhead.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 55,
+      "slug": "angela",
+      "name": "Angela",
+      "skin_name": "Bunnylove",
+      "roles": [
+        "Support"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Artificial human made in Laboratory 1718.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Angela-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Angela-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/angela.json",
+      "builds_endpoint": "game-data/v1/builds/angela.json",
+      "visual_endpoint": "catalog/v1/visual/angela.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/angela.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 56,
+      "slug": "gusion",
+      "name": "Gusion",
+      "skin_name": "Holy Blade",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Rebellious son of House Paxley.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Gusion-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Gusion-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/gusion.json",
+      "builds_endpoint": "game-data/v1/builds/gusion.json",
+      "visual_endpoint": "catalog/v1/visual/gusion.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/gusion.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 57,
+      "slug": "valir",
+      "name": "Valir",
+      "skin_name": "Son of Flames",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Heir to Fire Throat, fire mage.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Valir-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Valir-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/valir.json",
+      "builds_endpoint": "game-data/v1/builds/valir.json",
+      "visual_endpoint": "catalog/v1/visual/valir.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/valir.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 58,
+      "slug": "martis",
+      "name": "Martis",
+      "skin_name": "Ashura King",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Persistent and victorious Asura King.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Martis-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Martis-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/martis.json",
+      "builds_endpoint": "game-data/v1/builds/martis.json",
+      "visual_endpoint": "catalog/v1/visual/martis.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/martis.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 59,
+      "slug": "uranus",
+      "name": "Uranus",
+      "skin_name": "Aesthereal Defender",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Guardian made from lighning and air, guardds the Celestial Palace.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Uranus-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Uranus-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/uranus.json",
+      "builds_endpoint": "game-data/v1/builds/uranus.json",
+      "visual_endpoint": "catalog/v1/visual/uranus.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/uranus.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 60,
+      "slug": "hanabi",
+      "name": "Hanabi",
+      "skin_name": "Scarlet Flower",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "Leader of the Scarlet Sect, in the Scarlet Shadow of the Cadia Riverlands.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hanabi-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Hanabi-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/hanabi.json",
+      "builds_endpoint": "game-data/v1/builds/hanabi.json",
+      "visual_endpoint": "catalog/v1/visual/hanabi.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/hanabi.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 61,
+      "slug": "chang-e",
+      "name": "Chang'e",
+      "skin_name": "Moon Palace Immortal",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Naughty and cute disciple of the Great Dragon.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Chang-e-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Chang-e-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/chang-e.json",
+      "builds_endpoint": "game-data/v1/builds/chang-e.json",
+      "visual_endpoint": "catalog/v1/visual/chang-e.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/chang-e.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 62,
+      "slug": "kaja",
+      "name": "Kaja",
+      "skin_name": "Nazar King",
+      "roles": [
+        "Support",
+        "Fighter"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Leader of Nazar who guards the Celestial Palace.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kaja-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kaja-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/kaja.json",
+      "builds_endpoint": "game-data/v1/builds/kaja.json",
+      "visual_endpoint": "catalog/v1/visual/kaja.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/kaja.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 63,
+      "slug": "selena",
+      "name": "Selena",
+      "skin_name": "Abyssal Witch",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Roaming",
+        "Mid Lane"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Dark Elf girl who fell into the Abyss.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Selena-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Selena-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/selena.json",
+      "builds_endpoint": "game-data/v1/builds/selena.json",
+      "visual_endpoint": "catalog/v1/visual/selena.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/selena.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 64,
+      "slug": "aldous",
+      "name": "Aldous",
+      "skin_name": "Soul Contractor",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "The guardian of the Minoan Labyrinth.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Aldous-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Aldous-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/aldous.json",
+      "builds_endpoint": "game-data/v1/builds/aldous.json",
+      "visual_endpoint": "catalog/v1/visual/aldous.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/aldous.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 65,
+      "slug": "claude",
+      "name": "Claude",
+      "skin_name": "Master Thief",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "An excellent thief who comes and goes without a trace.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Claude-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Claude-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/claude.json",
+      "builds_endpoint": "game-data/v1/builds/claude.json",
+      "visual_endpoint": "catalog/v1/visual/claude.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/claude.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 66,
+      "slug": "vale",
+      "name": "Vale",
+      "skin_name": "Windtalker",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "The heir to Wind Fort, a wind mage.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Vale-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Vale-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/vale.json",
+      "builds_endpoint": "game-data/v1/builds/vale.json",
+      "visual_endpoint": "catalog/v1/visual/vale.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/vale.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 67,
+      "slug": "leomord",
+      "name": "Leomord",
+      "skin_name": "Sworn Sword",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A sworn knight who vowed to guard Necrokeep until his last breath.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Leomord-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Leomord-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/leomord.json",
+      "builds_endpoint": "game-data/v1/builds/leomord.json",
+      "visual_endpoint": "catalog/v1/visual/leomord.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/leomord.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 68,
+      "slug": "lunox",
+      "name": "Lunox",
+      "skin_name": "Twilight Goddess",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "A miraculous creature born in Twilight Orb.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lunox-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lunox-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lunox.json",
+      "builds_endpoint": "game-data/v1/builds/lunox.json",
+      "visual_endpoint": "catalog/v1/visual/lunox.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lunox.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 69,
+      "slug": "hanzo",
+      "name": "Hanzo",
+      "skin_name": "Akuma Ninja",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Genius ninja in the Shadow Sect who is at the crossroads.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hanzo-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Hanzo-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/hanzo.json",
+      "builds_endpoint": "game-data/v1/builds/hanzo.json",
+      "visual_endpoint": "catalog/v1/visual/hanzo.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/hanzo.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 70,
+      "slug": "belerick",
+      "name": "Belerick",
+      "skin_name": "Guard of Nature",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "A kind and fraternal elemental creature.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Belerick-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Belerick-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/belerick.json",
+      "builds_endpoint": "game-data/v1/builds/belerick.json",
+      "visual_endpoint": "catalog/v1/visual/belerick.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/belerick.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 71,
+      "slug": "kimmy",
+      "name": "Kimmy",
+      "skin_name": "Hoverjet Outrider",
+      "roles": [
+        "Marksman",
+        "Mage"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "Born into a military family, she earned recognition through her own merit as the bold yet laid-back \"tough girl\" of the Border Guard.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kimmy-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Kimmy-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/kimmy.json",
+      "builds_endpoint": "game-data/v1/builds/kimmy.json",
+      "visual_endpoint": "catalog/v1/visual/kimmy.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/kimmy.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 72,
+      "slug": "thamuz",
+      "name": "Thamuz",
+      "skin_name": "Lord Lava",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "The lord of the Fire Demons who seeks to reignite the flames of the Abyss through war and violence.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Thamuz-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Thamuz-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/thamuz.json",
+      "builds_endpoint": "game-data/v1/builds/thamuz.json",
+      "visual_endpoint": "catalog/v1/visual/thamuz.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/thamuz.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 73,
+      "slug": "harith",
+      "name": "Harith",
+      "skin_name": "Time Traveler",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Gold Lane",
+        "Jungle"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "Leonin boy who came to the Moniyan Empire from Azrya.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Harith-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Harith-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/harith.json",
+      "builds_endpoint": "game-data/v1/builds/harith.json",
+      "visual_endpoint": "catalog/v1/visual/harith.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/harith.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 74,
+      "slug": "minsitthar",
+      "name": "Minsitthar",
+      "skin_name": "Courageous Warrior",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane",
+        "Roaming"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A young king that led the people of Mahar Pura to victory against invaders.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Minsitthar-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Minsitthar-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/minsitthar.json",
+      "builds_endpoint": "game-data/v1/builds/minsitthar.json",
+      "visual_endpoint": "catalog/v1/visual/minsitthar.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/minsitthar.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 75,
+      "slug": "kadita",
+      "name": "Kadita",
+      "skin_name": "Ocean Goddess",
+      "roles": [
+        "Mage",
+        "Assassin"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Beautiful and powerful mermaid queen.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kadita-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Kadita-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/kadita.json",
+      "builds_endpoint": "game-data/v1/builds/kadita.json",
+      "visual_endpoint": "catalog/v1/visual/kadita.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/kadita.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 76,
+      "slug": "faramis",
+      "name": "Faramis",
+      "skin_name": "Soul Binder",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "A necromancer in Necrokeep who's determined to find a cure for the Mist.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Faramis-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Faramis-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/faramis.json",
+      "builds_endpoint": "game-data/v1/builds/faramis.json",
+      "visual_endpoint": "catalog/v1/visual/faramis.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/faramis.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 77,
+      "slug": "badang",
+      "name": "Badang",
+      "skin_name": "Tribal Warrior",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Island hero who gained supernatural power after defeating the water monster.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Badang-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Badang-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/badang.json",
+      "builds_endpoint": "game-data/v1/builds/badang.json",
+      "visual_endpoint": "catalog/v1/visual/badang.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/badang.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 78,
+      "slug": "khufra",
+      "name": "Khufra",
+      "skin_name": "Desert Tyrant",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Sealed ancient tyrant.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Khufra-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Khufra-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/khufra.json",
+      "builds_endpoint": "game-data/v1/builds/khufra.json",
+      "visual_endpoint": "catalog/v1/visual/khufra.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/khufra.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 79,
+      "slug": "granger",
+      "name": "Granger",
+      "skin_name": "Death Chanter",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A mysterious demon hunter that operates outside the conventions of the Church of Light. Always seen with a violin case in hand, he hunts down demons with his two soul-devouring weapons.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Granger-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Granger-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/granger.json",
+      "builds_endpoint": "game-data/v1/builds/granger.json",
+      "visual_endpoint": "catalog/v1/visual/granger.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/granger.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 80,
+      "slug": "guinevere",
+      "name": "Guinevere",
+      "skin_name": "Ms. Violet",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Guinevere-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Guinevere-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/guinevere.json",
+      "builds_endpoint": "game-data/v1/builds/guinevere.json",
+      "visual_endpoint": "catalog/v1/visual/guinevere.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/guinevere.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 81,
+      "slug": "esmeralda",
+      "name": "Esmeralda",
+      "skin_name": "Astrologer",
+      "roles": [
+        "Tank",
+        "Mage"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A mysterious astrologer.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Esmeralda-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Esmeralda-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/esmeralda.json",
+      "builds_endpoint": "game-data/v1/builds/esmeralda.json",
+      "visual_endpoint": "catalog/v1/visual/esmeralda.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/esmeralda.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 82,
+      "slug": "terizla",
+      "name": "Terizla",
+      "skin_name": "Executioner",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Once the eccentric master smith, but now an avenger siding with the Abyss.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Terizla-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Terizla-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/terizla.json",
+      "builds_endpoint": "game-data/v1/builds/terizla.json",
+      "visual_endpoint": "catalog/v1/visual/terizla.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/terizla.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 83,
+      "slug": "x-borg",
+      "name": "X.Borg",
+      "skin_name": "Firaga Armor",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "An uncontrollable flame that's determined to take revenge against Eruditio.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/X-Borg-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/X-Borg-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/x-borg.json",
+      "builds_endpoint": "game-data/v1/builds/x-borg.json",
+      "visual_endpoint": "catalog/v1/visual/x-borg.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/x-borg.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 84,
+      "slug": "ling",
+      "name": "Ling",
+      "skin_name": "Cyan Finch",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermillion Bird's power.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Ling-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Ling-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/ling.json",
+      "builds_endpoint": "game-data/v1/builds/ling.json",
+      "visual_endpoint": "catalog/v1/visual/ling.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/ling.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 85,
+      "slug": "dyrroth",
+      "name": "Dyrroth",
+      "skin_name": "Prince of the Abyss",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Once the noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons, and transformed into the Prince of the Abyss.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Dyrroth-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Dyrroth-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/dyrroth.json",
+      "builds_endpoint": "game-data/v1/builds/dyrroth.json",
+      "visual_endpoint": "catalog/v1/visual/dyrroth.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/dyrroth.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 86,
+      "slug": "lylia",
+      "name": "Lylia",
+      "skin_name": "Little Witch",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "A funny and witted little witch.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lylia-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Lylia-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lylia.json",
+      "builds_endpoint": "game-data/v1/builds/lylia.json",
+      "visual_endpoint": "catalog/v1/visual/lylia.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lylia.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 87,
+      "slug": "baxia",
+      "name": "Baxia",
+      "skin_name": "Mystic Tortoise",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The Mystic Tortoise of Oriental Fighters, a shield-wealding, unstoppable wheel of flames.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Baxia-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Baxia-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/baxia.json",
+      "builds_endpoint": "game-data/v1/builds/baxia.json",
+      "visual_endpoint": "catalog/v1/visual/baxia.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/baxia.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 88,
+      "slug": "masha",
+      "name": "Masha",
+      "skin_name": "Wild-oats Fist",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Guardian of the Direbears.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Masha-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Masha-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/masha.json",
+      "builds_endpoint": "game-data/v1/builds/masha.json",
+      "visual_endpoint": "catalog/v1/visual/masha.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/masha.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 89,
+      "slug": "wanwan",
+      "name": "Wanwan",
+      "skin_name": "Agile Tiger",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The Agile Tiger of the Oriental Fighters an a lively young girl who wields the Crossbow of Tang.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Wanwan-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Wanwan-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/wanwan.json",
+      "builds_endpoint": "game-data/v1/builds/wanwan.json",
+      "visual_endpoint": "catalog/v1/visual/wanwan.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/wanwan.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 90,
+      "slug": "silvanna",
+      "name": "Silvanna",
+      "skin_name": "Imperial Knightess",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Princess of the Moniyan Empire and queen regent.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Silvanna-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Silvanna-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/silvanna.json",
+      "builds_endpoint": "game-data/v1/builds/silvanna.json",
+      "visual_endpoint": "catalog/v1/visual/silvanna.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/silvanna.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 91,
+      "slug": "cecilion",
+      "name": "Cecilion",
+      "skin_name": "Embrace of Night",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Carmilla's Blood Demon lover",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Cecilion-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Cecilion-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/cecilion.json",
+      "builds_endpoint": "game-data/v1/builds/cecilion.json",
+      "visual_endpoint": "catalog/v1/visual/cecilion.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/cecilion.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 92,
+      "slug": "carmilla",
+      "name": "Carmilla",
+      "skin_name": "Shadow of Twilight",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "The girl who became a Blood Demon for love.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Carmilla-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Carmilla-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/carmilla.json",
+      "builds_endpoint": "game-data/v1/builds/carmilla.json",
+      "visual_endpoint": "catalog/v1/visual/carmilla.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/carmilla.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 93,
+      "slug": "atlas",
+      "name": "Atlas",
+      "skin_name": "Ocean Gladiator",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Abysmal Sea creature who broke free from the seal.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Atlas-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Atlas-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/atlas.json",
+      "builds_endpoint": "game-data/v1/builds/atlas.json",
+      "visual_endpoint": "catalog/v1/visual/atlas.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/atlas.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 94,
+      "slug": "popol-and-kupa",
+      "name": "Popol and Kupa",
+      "skin_name": "Icefield Companions",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Boy and an Icefield Wolf, partners who understand each other well.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Popol-and-Kupa-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Popol-and-Kupa-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/popol-and-kupa.json",
+      "builds_endpoint": "game-data/v1/builds/popol-and-kupa.json",
+      "visual_endpoint": "catalog/v1/visual/popol-and-kupa.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/popol-and-kupa.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 95,
+      "slug": "yu-zhong",
+      "name": "Yu Zhong",
+      "skin_name": "Black Dragon",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yu-Zhong-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yu-Zhong-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/yu-zhong.json",
+      "builds_endpoint": "game-data/v1/builds/yu-zhong.json",
+      "visual_endpoint": "catalog/v1/visual/yu-zhong.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/yu-zhong.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 96,
+      "slug": "luo-yi",
+      "name": "Luo Yi",
+      "skin_name": "Yin-yang Geomancer",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Luo-Yi-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Luo-Yi-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/luo-yi.json",
+      "builds_endpoint": "game-data/v1/builds/luo-yi.json",
+      "visual_endpoint": "catalog/v1/visual/luo-yi.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/luo-yi.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 97,
+      "slug": "benedetta",
+      "name": "Benedetta",
+      "skin_name": "Shadow Ranger",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Female warrior defending the Barren Lands against demon invastion.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Benedetta-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Benedetta-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/benedetta.json",
+      "builds_endpoint": "game-data/v1/builds/benedetta.json",
+      "visual_endpoint": "catalog/v1/visual/benedetta.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/benedetta.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 98,
+      "slug": "khaleed",
+      "name": "Khaleed",
+      "skin_name": "Desert Scimitar",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A sand-walking intrepid Clan leader.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Khaleed-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Khaleed-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/khaleed.json",
+      "builds_endpoint": "game-data/v1/builds/khaleed.json",
+      "visual_endpoint": "catalog/v1/visual/khaleed.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/khaleed.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 99,
+      "slug": "barats",
+      "name": "Barats",
+      "skin_name": "Dino Rider",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "Adventurer riding a dragon lizard.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Barats-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Barats-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/barats.json",
+      "builds_endpoint": "game-data/v1/builds/barats.json",
+      "visual_endpoint": "catalog/v1/visual/barats.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/barats.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 100,
+      "slug": "brody",
+      "name": "Brody",
+      "skin_name": "The Lone Star",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "Mysterious man whose right hand was corroded and who lost his memory.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Brody-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Brody-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/brody.json",
+      "builds_endpoint": "game-data/v1/builds/brody.json",
+      "visual_endpoint": "catalog/v1/visual/brody.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/brody.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 101,
+      "slug": "yve",
+      "name": "Yve",
+      "skin_name": "Astrowarden",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Keeper of the equilibrium of the universe.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yve-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yve-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/yve.json",
+      "builds_endpoint": "game-data/v1/builds/yve.json",
+      "visual_endpoint": "catalog/v1/visual/yve.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/yve.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 102,
+      "slug": "mathilda",
+      "name": "Mathilda",
+      "skin_name": "Swift Plume",
+      "roles": [
+        "Support",
+        "Assassin"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "A brave girl who stands up and doesn't fear power.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Mathilda-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Mathilda-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/mathilda.json",
+      "builds_endpoint": "game-data/v1/builds/mathilda.json",
+      "visual_endpoint": "catalog/v1/visual/mathilda.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/mathilda.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 103,
+      "slug": "paquito",
+      "name": "Paquito",
+      "skin_name": "The Heavenly Fist",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "The hero who uses his two fists to protect hope and love.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Paquito-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Paquito-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/paquito.json",
+      "builds_endpoint": "game-data/v1/builds/paquito.json",
+      "visual_endpoint": "catalog/v1/visual/paquito.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/paquito.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 104,
+      "slug": "gloo",
+      "name": "Gloo",
+      "skin_name": "Swamp Spirits",
+      "roles": [
+        "Tank"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "A mysterious creature that can split into many smaller ones.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Gloo-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Gloo-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/gloo.json",
+      "builds_endpoint": "game-data/v1/builds/gloo.json",
+      "visual_endpoint": "catalog/v1/visual/gloo.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/gloo.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 105,
+      "slug": "beatrix",
+      "name": "Beatrix",
+      "skin_name": "Dawnbreak Soldier",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "A confident inventor girl.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Beatrix-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Beatrix-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/beatrix.json",
+      "builds_endpoint": "game-data/v1/builds/beatrix.json",
+      "visual_endpoint": "catalog/v1/visual/beatrix.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/beatrix.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 106,
+      "slug": "phoveus",
+      "name": "Phoveus",
+      "skin_name": "Chains of Sin",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A former soldier from the border of the Empire who took on the chains of sin to defend his people.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Phoveus-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Phoveus-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/phoveus.json",
+      "builds_endpoint": "game-data/v1/builds/phoveus.json",
+      "visual_endpoint": "catalog/v1/visual/phoveus.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/phoveus.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 107,
+      "slug": "natan",
+      "name": "Natan",
+      "skin_name": "Spacetime Walker",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The savior who travels through time and space.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Natan-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Natan-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/natan.json",
+      "builds_endpoint": "game-data/v1/builds/natan.json",
+      "visual_endpoint": "catalog/v1/visual/natan.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/natan.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 108,
+      "slug": "aulus",
+      "name": "Aulus",
+      "skin_name": "Warrior of Ferocity",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A ferocious warrior who gets stronger as he fights.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Aulus-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Aulus-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/aulus.json",
+      "builds_endpoint": "game-data/v1/builds/aulus.json",
+      "visual_endpoint": "catalog/v1/visual/aulus.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/aulus.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 109,
+      "slug": "aamon",
+      "name": "Aamon",
+      "skin_name": "Duke of Shards",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The aloof Duke of Castle Aberleen.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Aamon-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Aamon-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/aamon.json",
+      "builds_endpoint": "game-data/v1/builds/aamon.json",
+      "visual_endpoint": "catalog/v1/visual/aamon.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/aamon.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 110,
+      "slug": "valentina",
+      "name": "Valentina",
+      "skin_name": "Prophetess of the Night",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Former head of House Paxley who'd stop at nothing to revive her lover.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Valentina-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Valentina-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/valentina.json",
+      "builds_endpoint": "game-data/v1/builds/valentina.json",
+      "visual_endpoint": "catalog/v1/visual/valentina.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/valentina.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 111,
+      "slug": "edith",
+      "name": "Edith",
+      "skin_name": "Ancient Guard",
+      "roles": [
+        "Tank",
+        "Marksman"
+      ],
+      "primary_role": "Tank",
+      "lanes": [
+        "EXP Lane",
+        "Roaming"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "Forsaken Warden with sealed memories.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Edith-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Edith-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/edith.json",
+      "builds_endpoint": "game-data/v1/builds/edith.json",
+      "visual_endpoint": "catalog/v1/visual/edith.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/edith.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 112,
+      "slug": "floryn",
+      "name": "Floryn",
+      "skin_name": "The Budding Hope",
+      "roles": [
+        "Support"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "A kind-hearted girl who is determined to spread greenery throughout the world.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Floryn-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Floryn-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/floryn.json",
+      "builds_endpoint": "game-data/v1/builds/floryn.json",
+      "visual_endpoint": "catalog/v1/visual/floryn.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/floryn.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 113,
+      "slug": "yin",
+      "name": "Yin",
+      "skin_name": "Martial Genius",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A young martial artist on a journey to defeat the Evil God that dwells on him.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Yin-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Yin-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/yin.json",
+      "builds_endpoint": "game-data/v1/builds/yin.json",
+      "visual_endpoint": "catalog/v1/visual/yin.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/yin.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 114,
+      "slug": "melissa",
+      "name": "Melissa",
+      "skin_name": "Cursed Needle",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "A girl with cursed needle who runs a tailor shop and solves problems for clients.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Melissa-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Melissa-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/melissa.json",
+      "builds_endpoint": "game-data/v1/builds/melissa.json",
+      "visual_endpoint": "catalog/v1/visual/melissa.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/melissa.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 115,
+      "slug": "xavier",
+      "name": "Xavier",
+      "skin_name": "Defier of Light",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Former member of the Knights of Light who's determined to forge a path of his own.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Xavier-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Xavier-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/xavier.json",
+      "builds_endpoint": "game-data/v1/builds/xavier.json",
+      "visual_endpoint": "catalog/v1/visual/xavier.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/xavier.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 116,
+      "slug": "julian",
+      "name": "Julian",
+      "skin_name": "Scarlet Raven",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A Raven assassin of the Church of Light, a young boy who's in search of his home...",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Julian-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Julian-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/julian.json",
+      "builds_endpoint": "game-data/v1/builds/julian.json",
+      "visual_endpoint": "catalog/v1/visual/julian.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/julian.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 117,
+      "slug": "fredrinn",
+      "name": "Fredrinn",
+      "skin_name": "Rogue Appraiser",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A master treasure appraiser in Los Pecados who accumulates wealth to search for his best friend.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Fredrinn-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Fredrinn-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/fredrinn.json",
+      "builds_endpoint": "game-data/v1/builds/fredrinn.json",
+      "visual_endpoint": "catalog/v1/visual/fredrinn.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/fredrinn.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 118,
+      "slug": "joy",
+      "name": "Joy",
+      "skin_name": "Flash of Miracle",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "The “Child Miracle” who returned to the Leonins after years of wandering.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Joy-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Joy-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/joy.json",
+      "builds_endpoint": "game-data/v1/builds/joy.json",
+      "visual_endpoint": "catalog/v1/visual/joy.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/joy.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 119,
+      "slug": "novaria",
+      "name": "Novaria",
+      "skin_name": "Star Rebel",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "The young girl who seeks to rebuild the Star Atlas in order to solve the secrets of the Stars.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Novaria-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Novaria-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/novaria.json",
+      "builds_endpoint": "game-data/v1/builds/novaria.json",
+      "visual_endpoint": "catalog/v1/visual/novaria.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/novaria.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 120,
+      "slug": "arlott",
+      "name": "Arlott",
+      "skin_name": "Lone Lancer",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A demon human hybrid wielding two lances with a thirst for vengeance against both the Church and demons.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Arlott-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Arlott-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/arlott.json",
+      "builds_endpoint": "game-data/v1/builds/arlott.json",
+      "visual_endpoint": "catalog/v1/visual/arlott.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/arlott.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 121,
+      "slug": "ixia",
+      "name": "Ixia",
+      "skin_name": "Arclight Outlaw",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The leader of Bad Soul and self-proclaimed inventor, she wields a homemade weapon powered by a Starlium reactor.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Ixia-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Ixia-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/ixia.json",
+      "builds_endpoint": "game-data/v1/builds/ixia.json",
+      "visual_endpoint": "catalog/v1/visual/ixia.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/ixia.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 122,
+      "slug": "nolan",
+      "name": "Nolan",
+      "skin_name": "Cosmic Wayfinder",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A scholar that wanders the universe with split souls to save his daughter.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Nolan-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Nolan-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/nolan.json",
+      "builds_endpoint": "game-data/v1/builds/nolan.json",
+      "visual_endpoint": "catalog/v1/visual/nolan.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/nolan.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 123,
+      "slug": "cici",
+      "name": "Cici",
+      "skin_name": "Buoyant Performer",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A cheerful performer who spreads fun and wonderment wherever she goes.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Cici-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Cici-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/cici.json",
+      "builds_endpoint": "game-data/v1/builds/cici.json",
+      "visual_endpoint": "catalog/v1/visual/cici.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/cici.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 124,
+      "slug": "chip",
+      "name": "Chip",
+      "skin_name": "Phase Technician",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "A carefree, genetically enhanced fox that wields advanced portal technology.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Chip-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Chip-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/chip.json",
+      "builds_endpoint": "game-data/v1/builds/chip.json",
+      "visual_endpoint": "catalog/v1/visual/chip.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/chip.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 125,
+      "slug": "zhuxin",
+      "name": "Zhuxin",
+      "skin_name": "Beacon of Spirits",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "A mysterious young woman who guides the ember butterflies using her Lantern of Spirits.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zhuxin-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zhuxin-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/zhuxin.json",
+      "builds_endpoint": "game-data/v1/builds/zhuxin.json",
+      "visual_endpoint": "catalog/v1/visual/zhuxin.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/zhuxin.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 126,
+      "slug": "suyou",
+      "name": "Suyou",
+      "skin_name": "Mask of the Immortal",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Suyou-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Suyou-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/suyou.json",
+      "builds_endpoint": "game-data/v1/builds/suyou.json",
+      "visual_endpoint": "catalog/v1/visual/suyou.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/suyou.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 127,
+      "slug": "lukas",
+      "name": "Lukas",
+      "skin_name": "Beast of Light",
+      "roles": [
+        "Fighter"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A legendary Sacred Beast that can take the form of a rambunctious young man.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lukas-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Lukas-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/lukas.json",
+      "builds_endpoint": "game-data/v1/builds/lukas.json",
+      "visual_endpoint": "catalog/v1/visual/lukas.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/lukas.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 128,
+      "slug": "kalea",
+      "name": "Kalea",
+      "skin_name": "Surging Wave",
+      "roles": [
+        "Support",
+        "Fighter"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kalea-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Kalea-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/kalea.json",
+      "builds_endpoint": "game-data/v1/builds/kalea.json",
+      "visual_endpoint": "catalog/v1/visual/kalea.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/kalea.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 129,
+      "slug": "zetian",
+      "name": "Zetian",
+      "skin_name": "Celestial Empress",
+      "roles": [
+        "Mage"
+      ],
+      "primary_role": "Mage",
+      "lanes": [
+        "Mid Lane"
+      ],
+      "primary_lane": "Mid Lane",
+      "short_description": "Recognized by the Heavens and cherished by her people, the Celestial Empress of the Cadia Riverlands ascends to bring peace to the mortal realm.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Zetian-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Zetian-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/zetian.json",
+      "builds_endpoint": "game-data/v1/builds/zetian.json",
+      "visual_endpoint": "catalog/v1/visual/zetian.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/zetian.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 130,
+      "slug": "obsidia",
+      "name": "Obsidia",
+      "skin_name": "Sovereign of Dark's End",
+      "roles": [
+        "Marksman"
+      ],
+      "primary_role": "Marksman",
+      "lanes": [
+        "Gold Lane"
+      ],
+      "primary_lane": "Gold Lane",
+      "short_description": "The ancient Sovereign of the Abyss, risen from ruin, now seeks to slay the God of Darkness and hunt down its Spawns of Decay.",
+      "portrait_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Portrait/Obsidia-Default.png",
+      "splash_url": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main/Heroes/Splash/Obsidia-Default.png",
+      "guide_endpoint": "game-data/v1/heroes/obsidia.json",
+      "builds_endpoint": "game-data/v1/builds/obsidia.json",
+      "visual_endpoint": "catalog/v1/visual/obsidia.json",
+      "upgrade_endpoint": "catalog/v1/upgrade/obsidia.json",
+      "has_visual_catalog": true,
+      "enabled": true
+    },
+    {
+      "id": 131,
+      "slug": "sora",
+      "name": "Sora",
+      "skin_name": "Shifting Cloud",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "primary_role": "Fighter",
+      "lanes": [
+        "EXP Lane"
+      ],
+      "primary_lane": "EXP Lane",
+      "short_description": "A pure and free-spirited boy with unshakeable resolve, drifting across the golden sands.",
+      "portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero1311-portrait.png/revision/latest?cb=20251218014024",
+      "splash_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Sora_%28Shifting_Cloud%29.jpg/revision/latest/scale-to-width-down/1215?cb=20251219025337",
+      "guide_endpoint": "game-data/v1/heroes/sora.json",
+      "builds_endpoint": "game-data/v1/builds/sora.json",
+      "visual_endpoint": null,
+      "upgrade_endpoint": null,
+      "has_visual_catalog": false,
+      "enabled": true
+    },
+    {
+      "id": 132,
+      "slug": "marcel",
+      "name": "Marcel",
+      "skin_name": "Soul Photographer",
+      "roles": [
+        "Support"
+      ],
+      "primary_role": "Support",
+      "lanes": [
+        "Roaming"
+      ],
+      "primary_lane": "Roaming",
+      "short_description": "Hailing from House Paxley, he is an elegant, mysterious, and bizarre artist whose split soul has fused with his camera.",
+      "portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero1321-portrait.png/revision/latest?cb=20260311075303",
+      "splash_url": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Marcel_%28Soul_Photographer%29.jpg/revision/latest/scale-to-width-down/1215?cb=20260308072632",
+      "guide_endpoint": "game-data/v1/heroes/marcel.json",
+      "builds_endpoint": "game-data/v1/builds/marcel.json",
+      "visual_endpoint": null,
+      "upgrade_endpoint": null,
+      "has_visual_catalog": false,
+      "enabled": true
+    },
+    {
+      "id": 133,
+      "slug": "hiara",
+      "name": "Hiara",
+      "skin_name": "Fallen Scarlet",
+      "roles": [
+        "Assassin"
+      ],
+      "primary_role": "Assassin",
+      "lanes": [
+        "Jungle"
+      ],
+      "primary_lane": "Jungle",
+      "short_description": "A geisha ninja from the Scarlet Shadow, armed with dual fans and adorned in crimson maple and the meisen. In her twisted mind, death is the ultimate salvation.",
+      "portrait_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero1331-portrait.png/revision/latest?cb=20260618091411",
+      "splash_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hirara_%28Fallen_Scarlet%29.jpg/revision/latest/scale-to-width-down/1215?cb=20260614043122",
+      "guide_endpoint": "game-data/v1/heroes/hiara.json",
+      "builds_endpoint": "game-data/v1/builds/hiara.json",
+      "visual_endpoint": null,
+      "upgrade_endpoint": null,
+      "has_visual_catalog": false,
+      "enabled": true
+    }
+  ]
+}

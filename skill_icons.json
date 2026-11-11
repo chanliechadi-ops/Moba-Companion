@@ -1,0 +1,818 @@
+{
+  "Miya": {
+    "Moon Blessing": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fbe01740efd779f6059fd2313b427457.png",
+    "Moon Arrow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de41566ded345f89064e32da9dfd8893.png",
+    "Arrow of Eclipse": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c5771dd5686278640dabfaa26839545c.png",
+    "Hidden Moonlight": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_361546d795e6df7029a1cf1252e57ac8.png"
+  },
+  "Balmond": {
+    "Bloodthirst": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a9aa00dcaf998c9636e1dbb874a225c5.png",
+    "Soul Lock": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8bfe9cffa391a97995c46977e95d4be8.png",
+    "Cyclone Sweep": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5120ddf10175a28628b37ddb846df631.png",
+    "Lethal Counter": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a7365234448da509cb88a0baf2b92dd.png"
+  },
+  "Saber": {
+    "Enemy's Bane": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1ec282b532be7af31153ce75b206f112.png",
+    "Orbiting Swords": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6294839bbadfa6f203cd57bdc15efe2.png",
+    "Charge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8607d91bbdff281d5bba7618f3ed4c98.png",
+    "Triple Sweep": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fc47930fd50e062bf6e8c8c0398e237c.png"
+  },
+  "Alice": {
+    "Crimson Blood Banquet": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_156b5e04b84b0c6b88e4b32267fec730.png",
+    "Crimson Gleam": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a063238228005a9942a1eb7efa6b23a.png",
+    "Doom Waltz": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4c7a4bc9cafdc56731b756dc883f4301.png",
+    "Throne of Ruin": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_256a8304f18c293d0edcd6c6738cb3e8.png"
+  },
+  "Nana": {
+    "Molina's Gift": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40f1ef3190c16e8bedac960e5d600ae0.png",
+    "Magic Boomerang": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_54aff0ecbd71fb7e4819568698dfbee6.png",
+    "Molina Smooch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1551014a72caf56ad15d79a118d767ed.png",
+    "Molina Blitz": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32610623c520254cccf0e02a5fac9e44.png"
+  },
+  "Tigreal": {
+    "Fearless": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5b028ce65e323d962d7060705f59743f.png",
+    "Attack Wave": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e00063700ab16f53d840986b98aae25.png",
+    "Sacred Hammer": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e9baf5e58ce0fb23c0fcb6176cc8ed5d.png",
+    "Implosion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46e5c2b6f8fd6fda995a63d5c10f19e5.png"
+  },
+  "Alucard": {
+    "Pursuit": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51d252e4e734a49c0a8a2a00a8ba99b4.png",
+    "Groundsplitter": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7862dada550b5e9258bbefafee78a296.png",
+    "Whirling Smash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9a0e6ddbddbf009ebb0736e320170fa.png",
+    "Fission Wave": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d4325e672bb7b7a1add8501525684e19.png"
+  },
+  "Karina": {
+    "Shadow Combo": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fb37b0cbc5e9952ec756e3f58c5df22f.png",
+    "Dance of Blades": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_94328c502082dd096eb4be3d95655b07.png",
+    "Dance of Death": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da228e14f0756e84580cb08ede6a1283.png",
+    "Shadow Assault": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_889d1d71cef50ed1121ee68b5097954e.png"
+  },
+  "Akai": {
+    "Tai Chi": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_889b0e22757b7f4bfbc2cfa4e6b39d98.png",
+    "Headbutt": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4c47ec169528dd5f35ee0792fd26fcf8.png",
+    "Body Slam": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_57c97caeff255d9d646d4c9b3d100211.png",
+    "Heavy Spin": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_31701b6b54bacf44d29317ab6ba86f64.png"
+  },
+  "Franco": {
+    "Wasteland Force": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f28d9d7b5ae159997dc00f992cec8881.png",
+    "Iron Hook": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eb5032e0d6d264f97c30f95237cc2ed4.png",
+    "Fury Shock": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ed340f228f854d69477c6d492ab6046.png",
+    "Bloody Hunt": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b19953d95c51bcb9292e743e84d71071.png"
+  },
+  "Bane": {
+    "Shark Bite": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6458e01eb437665b82e4cd27c10a4344.png",
+    "Crab Claw Cannon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c0b05da138f56fff0f5876884c8a2036.png",
+    "Ale": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_71a139065a16f485cd6b13bec193c499.png",
+    "Deadly Catch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fe8c4a45d27cc7d56b893a31138b8a4d.png"
+  },
+  "Bruno": {
+    "Mecha Legs": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0850ac06412b0171aef0eba541581199.png",
+    "Volley Shot": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_65a5b817dc5f53e082caa8c1def5a9ef.png",
+    "Flying Tackle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_02cfbd7b97612b6aedb46d84a3186ce4.png",
+    "Worldie": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0d4558404b2096ecbce8394de5ced030.png"
+  },
+  "Clint": {
+    "Double Shot": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4f34f91aa8c276c6c68c0fb062645591.png",
+    "Quick Draw": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_819bd2b4fce66ea402874193cd70b190.png",
+    "Trapping Recoil": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6813ebabb3e000e3af1935d16faa8f5b.png",
+    "Grenade Bombardment": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_144f654bbb1560ed883a8f21b11f8a9d.png"
+  },
+  "Rafaela": {
+    "Divine Resurrection": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_5fbca31ec6cb27ec3d673933fea5fc85.png",
+    "Light of Retribution": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3672153fbf1dbeb4a98243958f9deb7.png",
+    "Holy Healing": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4ce274e4ea7ccb436e0adfec05457aa.png",
+    "Holy Baptism": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70f534ce6bfaa6640646551419211d4c.png"
+  },
+  "Eudora": {},
+  "Zilong": {
+    "Dragon Flurry": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_588b6273f7a0153bebe86f7ed6bb7e18.png",
+    "Spear Flip": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_effcecb9dba41aa5fa1c34edad4d7e17.png",
+    "Spear Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_61e9af7beef08d70233d34f98cafb3e3.png",
+    "Supreme Warrior": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ed8776fe35d9d7b2db410549e95759cd.png"
+  },
+  "Fanny": {
+    "Air Superiority": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9010ffb0bfdac45531cb9977a26ae32d.png",
+    "Tornado Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf2db24c7635421134610a42e0b61005.png",
+    "Steel Cable": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0dacda6f2198ccd2a3e1dcd444065d7a.png",
+    "Cut Throat": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c7f6411c4bb0027e0fbd8ef98ef7e770.png"
+  },
+  "Layla": {
+    "Malefic Gun": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ba25b082b2a373138d398a32499e0544.png",
+    "Malefic Bomb": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b00ff9edafd44eeee4af815f24c14653.png",
+    "Void Projectile": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03f3b37b699108735c77c0197acac646.png",
+    "Destruction Rush": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8410070e72f25785078a91c793a39cc0.png"
+  },
+  "Minotaur": {
+    "Rage Incarnate": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4296561c81f79f3960c72c6d707a2f86.png",
+    "Despair Stomp": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a902b3f75e08b180503d02796804baae.png",
+    "Motivation Roar": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_72ead6458b2fd5fa001d4cc594ee37a8.png",
+    "Minoan Fury": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b1d72b921c47c7dcb68a25c4289412a.png"
+  },
+  "Lolita": {
+    "Noumenon Energy Core": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8c26e0d0018fb46934ec1e079ddbe695.png",
+    "Power Charge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e1554a16e239a56ab24a59ed06542a07.png",
+    "Guardian's Reflection": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c667899aa7f531fa5b199327be638d54.png",
+    "Noumenon Blast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_139bfe9c5e5ab063c0988222a5a3c456.png"
+  },
+  "Hayabusa": {
+    "Ninjutsu: Trace of Shadow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1255ed2b33be690a777dce8a797557c1.png",
+    "Ninjutsu: Phantom Shuriken": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2291f23ec06da9b9f312dd985bfd47a9.png",
+    "Ninjutsu: Quad Shadow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76a4c1e8322ddec04759efa14a3ab3ff.png",
+    "Ougi: Shadow Kill": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_725ee5582eb697e37896e8a6b81442d9.png"
+  },
+  "Freya": {
+    "Valkyrie Descent": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_49a8b4de271d0162ab9e26e06819840e.png"
+  },
+  "Gord": {
+    "Mystic Favor": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d001e3ffc019ed6a944faa42e6bc7d4c.png",
+    "Mystic Projectile": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e44e97b68e56e6488c6148f3f1caad2e.png",
+    "Mystic Injunction": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e764ce9be81a6d36bde6c3603ac98812.png",
+    "Mystic Gush": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5609f4cebb87e2d2fa52c4419a8d3a63.png"
+  },
+  "Natalia": {
+    "Assassin Instinct": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70c63dbf8a6c5f7c13e000e50cb45048.png",
+    "Claw Dash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9fe9f13f142891ef055c36a9c5fe8e56.png",
+    "Smoke Bomb": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2dc19263463a18f2a7706ff9ceb90d9.png",
+    "The Hunt": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a505102cf3c9127d94b3fa4ae5de6734.png"
+  },
+  "Kagura": {
+    "Yin Yang Gathering ": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f022f5769cb87dee7944160a24f03b79.png",
+    "Seimei Umbrella Open ": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8df435b74a7fcd429e89dd381e5ea452.png",
+    "Rasho Umbrella Flee": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_210c67437a6d0722052086bfcca1e20d.png",
+    "Yin Yang Overturn": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0329949e3af570f3c65b46f1d12bf637.png"
+  },
+  "Chou": {
+    "Only Fast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_aca76a3a3dda44b6a0c3a72ff9bbcb94.png",
+    "Jeet Kune Do": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_70b2990486b562415dac32dac01bdb16.png",
+    "Shunpo": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d784b75324318b23edb29b1fdd06bea0.png",
+    "The Way of Dragon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05083715344213a996ab3ebf04381e93.png"
+  },
+  "Sun": {
+    "Simian God": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6d93eddf722334375d384ee8965f95f7.png",
+    "Endless Variety": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0d813a2495b9950a4a57fb9e750212ba.png",
+    "Swift Exchange": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7afa1977abd09809a0cfacccfd2f5cfd.png",
+    "Instantaneous Move": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_871502bcbd804479198c0374db30dd5a.png",
+    "Clone Techniques": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18d2d2e16311dff12a1a8518fc823e4d.png"
+  },
+  "Alpha": {
+    "Beta, Advance!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b3c9aef499eeb19ec98dfbac22bb33c.png",
+    "Rotary Impact": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8feb5b13b48b71de18f1490269cb1623.png",
+    "Force Swing": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_601fedfb2ef64598acdf449ad2b29216.png",
+    "Spear of Alpha": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f192b19efc5c9dcbd6e5c11e187e86d.png"
+  },
+  "Ruby": {
+    "Let's Dance!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_262dcfb1e67c19e273ac2409098c8b5d.png",
+    "Be Good!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ada6c7426a96d2d9b00fbaf7a0068d4.png",
+    "Don't Run, Wolf King!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_eaf4da37b9211deccc9c0452c0853887.png",
+    "I'm Offended!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de4c25c06cc0816c7be8638d52d2dfce.png"
+  },
+  "Yi Sun-shin": {
+    "Heavenly Vow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_708b471cf829d9ffb5d892a79b17d710.png",
+    "Traceless": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abd7c311019ffb1e4210092e448a445e.png",
+    "Blood Floods": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cbefbe66ac78ac29ec20d14a057c30a5.png",
+    "Mountain Shocker": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fa5511e292c6b516b1b258b13ab0f883.png"
+  },
+  "Moskov": {
+    "Spear of Quiescence": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_598dfa238e4987c45419783b299aa4fc.png",
+    "Abyss Walker": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ad0a57328e772be2fa70550692507a86.png",
+    "Spear of Misery": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_108c7b9f3ac11309bbcdf0bf1b185d46.png",
+    "Spear of Destruction": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f51734d9a49d298d05e1dc81d8e740c2.png"
+  },
+  "Johnson": {
+    "Electro Airbag": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df5fccf91538ea84c5ce22d59d217a5a.png",
+    "Impact Wrench": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_931a5157d2fadc2f1fe0d6d4941c2939.png",
+    "Electromagnetic Waves": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d559adcd5b3f996872c0db6b7673c86c.png",
+    "Full Throttle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3b552855efed5343debb078d885c15f8.png"
+  },
+  "Cyclops": {
+    "Starlit Hourglass": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f7b43d6e79d4116016d639302e00ebc4.png",
+    "Stardust Shock": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c79390698655479c4999a82b9d84a932.png",
+    "Planets Attack": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8702dc193a729d21627b4c37d21dd671.png",
+    "Star Power Lockdown": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9e7801c3fa4c06fdcc7383f3b9eb8b44.png"
+  },
+  "Estes": {
+    "Scripture of the Moon Elf": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0eb30f512750394ac949651d801d92f0.png",
+    "Moonlight Immersion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f5b04cea7f95a5fd378699c764f39384.png",
+    "Domain of Moon Goddess": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_207a8204b952f50031ad3ca3c6abea42.png",
+    "Blessing of Moon Goddess": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bc801eaf911ceb696997fbe43105440.png"
+  },
+  "Hilda": {
+    "Blessing of Wilderness": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2ffa9fe6df7c70e85144e9250f0f5bf.png",
+    "Combat Ritual": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_34b0dddc37a0bd20d686616d9b7b984e.png",
+    "Art of Hunting": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f407178c40dbabccf8d787b2e0e30cc.png",
+    "Power of Wildness": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_323f1e87195d3a50d0c307f239241b61.png"
+  },
+  "Aurora": {},
+  "Lapu-Lapu": {
+    "Homeland Defender": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_49ec4c6534f7d54b1b490a966bcb431f.png",
+    "Justice Blades": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7cb2f98d19635f68bcf1c9a322daf6a.png",
+    "Jungle Warrior": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24322baddfd959a497671ec25ebe91a7.png",
+    "Bravest Fighter": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7b0ba6060cb97e213bbb75c24404a2f.png",
+    "Land Shaker": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_314a8fc8ae1bed40e359345d5f4d31a0.png",
+    "Storm Sword": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d09db3b0fb47d66e6ce2c80371141c68.png",
+    "Raging Slash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_77042b1a4020eef7c59fc51ac080a91c.png"
+  },
+  "Vexana": {
+    "Nether Touch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4a772fea90f7fef17b012afc119091a7.png",
+    "Deathly Grasp": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_306fd329581b6ea4590086598d250df1.png",
+    "Cursed Blast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0142fc0def21fe074ec6feb4a24fa07.png",
+    "Eternal Guard": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a95d813fc47cb5ec048784dacd7b46e.png"
+  },
+  "Roger": {
+    "Full Moon Curse": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09769166146e91d618341d4a45dbbf70.png",
+    "Open Fire": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6a7a6f89ad205b579985ea0e5ac28a1.png",
+    "Hunter's Steps": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_42cfcbb066e1aef866c0cc1b9221811a.png",
+    "Wolf Transformation": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d414e77c739a173de440616d47260dd8.png",
+    "Lycan Pounce": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c6152c1e1bb2ceae95818e06bcfed86.png",
+    "Bloodthirsty Howl": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c593ba4f2bebc21c6e099256e94ef2ec.png",
+    "Restore Human Form": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b11d01d56251927771353cdb54a1f59b.png"
+  },
+  "Karrie": {
+    "Lightwheel Mark": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e05b54046cde777fe5e1f2790e8dff8.png",
+    "Spinning Lightwheel": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db5f9ad9a119521901a51a7691656afb.png",
+    "Phantom Step": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1d3567f2e8613a30d531c25d987b09e2.png",
+    "Speedy Lightwheel": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a9f31cc93421fb6bcd5ef01d86a96f8.png"
+  },
+  "Gatotkaca": {
+    "Steel Bones": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2bcf1c5dea0b73298389955379bdc6b4.png",
+    "Blast Iron Fist": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_14b9b342dddb7cc721b7e93ba38a33ff.png",
+    "Unbreakable": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6c888f8a9fb4daac350896e27d7f49eb.png",
+    "Avatar of the Guardian": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_072e55d9347652eb686b7539943887de.png"
+  },
+  "Harley": {
+    "Magic Master": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3e9d943a0869ad60139cba7c8d3a3f0f.png",
+    "Poker Trick": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b585f6e1f81d05d3fe3461082ce1805b.png",
+    "Space Escape": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_700b842bae382a89c330491ee17ccd3b.png",
+    "Deadly Magic": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0057a5d751c27f6e56d3f105e27e989b.png"
+  },
+  "Irithel": {
+    "Jungle Heart": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d8e68f781ed32a436758208dbf747a45.png",
+    "Strafe": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51bc3b36a4cad27cf0e2d7f503960d98.png",
+    "Force of The Queen": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2eabb70e4105cb1db25da5b26d8cbff4.png",
+    "Heavy Crossbow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3ea4c434b6e7b2d253dc3da2a9940b66.png"
+  },
+  "Grock": {
+    "Bastion of Stone": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_bb06fa77cd649eff0cc061706e029182.png",
+    "Mighty Swing": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_b4b1b8b21935b3455b44981f2a01404d.png",
+    "Earthen Rampart": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_e19cfc03bbe289fccbfc89a1ef6668be.png",
+    "Tectonic Charge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_902/100_5226d8dc97b10a6a1a2416b3957dfc7f.png"
+  },
+  "Argus": {
+    "Warmonger": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f8a28cd195d4ec474f361daee0d0de6c.png",
+    "Demonic Grip": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b90caeb8b5854f2585f4c9af760e026a.png",
+    "Meteoric Sword": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79110528884ec6365c2e9395dc1bc11b.png",
+    "Eternal Evil": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_41fe2a5e02169da266ce942372ad1e91.png"
+  },
+  "Odette": {
+    "Lakeshore Ambience": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ea1dc3bb32cd7ca47e7a8aa0c0864278.png",
+    "Avian Authority": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e97b9ebeb8147c1ddd5610e36b4541cd.png",
+    "Blue Nova": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_630483c59b2a2eb1c6b9f3bdfc369dc8.png",
+    "Swan Song": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2f47fdb064b3c880cfc853d921ef090b.png"
+  },
+  "Lancelot": {
+    "Soul Cutter": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae0f65f46319169e0086c9249b921b16.png",
+    "Puncture": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_60c8287e6736521c1c00d1eda3bc07bf.png",
+    "Thorned Rose": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_146f3578adb9187559996d65a9bcab8b.png",
+    "Phantom Execution": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_410d2071fe2e9cfeaed0001e1b942229.png"
+  },
+  "Diggie": {
+    "Young Again": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c925354be703b164f4cb1e334f7f0999.png",
+    "Auto Alarm Bomb": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c86c657882cc6e1d60d78de99684630b.png",
+    "Reverse Time": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89a503e45d0aa3d3118f3bf9860f7793.png",
+    "Time Journey": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51ad0888fa262bf92b3cadf75b7d371c.png"
+  },
+  "Hylos": {
+    "Thickened Blood": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_81f19961357acccd7005193849dc05ac.png",
+    "Law and Order": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6dc51b5af13742c8a0fb9e0dd1d0cb93.png",
+    "Ring of Punishment": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_068a1e4a7a26457bba3aadb5b7b3e675.png",
+    "Glorious Pathway": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fb95da3d348806ddefba457bafd30e9f.png"
+  },
+  "Zhask": {
+    "Decimation": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c917fad570226db1fe802ef590ce37dc.png",
+    "Nightmaric Spawn": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d3d9495ced41a0034c6ae2f3c8abb23.png",
+    "Mind Eater": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4738fbff79c44b4aa3bd2bd943840032.png",
+    "Hive Clones": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47dcb2a530907fafc065d9363e941bae.png",
+    "Dominator's Descent": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3174faca2ab0b0d6c0dd9d1af22f47df.png"
+  },
+  "Helcurt": {
+    "Shadow of Styx": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc8d2817dd15f112fee407d391b40263.png",
+    "Hidden Terror": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c382e8831549b8418b96bd2bf1a1a747.png",
+    "Deadly Stinger": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_488c8c77f2759c625d9b480310190446.png",
+    "Dark Night Falls": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85ec55d4fae0baee5fc5b776963020c5.png"
+  },
+  "Pharsa": {
+    "Spiritual Unity": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ebde3d94865d5d05527b4becf8099d61.png",
+    "Curse of Crow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f742fccb6bbc9436b3085a1ee4b740f7.png",
+    "Energy Impact": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcf364fc10b2a3ee13ba23a6d56f7987.png",
+    "Feathered Air Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f0d9ce0152491c148821703d1e31d802.png",
+    "Wings by Wings": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_566a1f86bd9177eb7b75f0fb0a0c762c.png"
+  },
+  "Lesley": {
+    "Lethal Shot": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_296a3745ef0ec7c978400b3e7f481030.png",
+    "Master of Camouflage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8caf30fc02cfaa2f500311936dbfc31.png",
+    "Tactical Grenade": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18a15ed9f8facd0926ea8a8ecd200e25.png",
+    "Ultimate Snipe": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6126c3a551ed56f43e76df1f21510d2.png"
+  },
+  "Jawhead": {
+    "Mecha Suppression": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_be1d9f5cde5273770efe9549f6d374e0.png",
+    "Smart Missiles": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e71b01ad4b25441dc2874018c16771.png",
+    "Ejector": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8e015be6d7c3f44d07c7821c86d340e.png",
+    "Unstoppable Force": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b206f68d351dbf04a3e211903b345985.png"
+  },
+  "Angela": {
+    "Smart Heart": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a43559c89c118c816b669fa49b45e76f.png",
+    "Love Waves": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6f7b56ae09ae397b07ad30d8c94164ae.png",
+    "Puppet-on-a-String": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f32c780347021165ab869944f1c981c.png",
+    "Heartguard": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1c3f421da66e26aa3e0d8749f9f39de.png"
+  },
+  "Gusion": {
+    "Dagger Specialist": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dd599ad04fa456a864ea1e34e14d7739.png",
+    "Sword Spike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3c2d474c18f5d10925a4c732992df352.png",
+    "Shadowblade Slaughter": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_40bc6e5205c84fb8cd337031ca8480d0.png",
+    "Incandescence": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ffa279a397359b614e8acecde38c0bb.png"
+  },
+  "Valir": {
+    "Ashing": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_65b74c606ad3b8d47f18b6f87bc25bee.png",
+    "Burst Fireball": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37f8cc042e3430f6afcf4a18e1c8d064.png",
+    "Searing Torrent": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d2289b367b7fb08328145563195346f6.png",
+    "Vengeance Flame": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87bb3708c7ffb7391a768de2c82370a7.png"
+  },
+  "Martis": {
+    "Asura's Wrath": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f48a1786aeb1572d0309f509ddd0b444.png",
+    "Asura Aura": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dec679229c3d8b5f18144acfc2cda27f.png",
+    "Mortal Coil": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_910d3e465d051726ab223b215b7cfdb5.png",
+    "Decimation": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bbdf118fe86a5279e943a6db86fc4d7a.png"
+  },
+  "Uranus": {
+    "Radiance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_90324508ebba14fda61e55dfcf44b366.png",
+    "Ionic Edge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e6a35f29615510ea57f24f4bb68273ac.png",
+    "Transcendent Ward": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a67db8e144ebcad419b61a347d0cfd2.png",
+    "Consecration": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1f92cbcc716af295b0e8702936fb19b7.png"
+  },
+  "Hanabi": {
+    "Ninjutsu: Petal Barrage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_062555a0aac422ba461293262f8092e0.png",
+    "Ninjutsu: Equinox": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6a2d89d1131e3a9a8f7df3b3fc9503c2.png",
+    "Ninjutsu: Soul Scroll": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9cf15eea1a094676d6b4dafd87bc2adf.png",
+    "Forbidden Jutsu: Higanbana": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7d52b73b23ce9feabf62c1dd40fce331.png"
+  },
+  "Chang'e": {
+    "Trouble Maker": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d7332d176c72445d8cc3ee0317dacde.png",
+    "Starmoon Shockwave": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a02d601ba3fe650adef7922262df55c4.png",
+    "Crescent Moon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7cccc4df5ed4adc5cedaaf446aab3a6a.png",
+    "Meteor Shower": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_43c4ffb92aa2cf0242ed4fc0571c1a5d.png"
+  },
+  "Kaja": {
+    "Wrath Sanction": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_886fc87f5a6bb8be73d7ff0f1265368d.png",
+    "Ring of Order": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17653d39e18c367eb027863afa142fe8.png",
+    "Lightning Bomb": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a4e4ae951469d8f7ea8719442a8830a7.png",
+    "Divine Judgment": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_97e2b721acd4d9ce8180dafdebd0954f.png"
+  },
+  "Selena": {
+    "Symbiosis": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_32860acd4d3f0f6e34c80e70db4f3963.png",
+    "Abyssal Trap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_62637c2435b75abec80321bb1544fc30.png",
+    "Abyssal Arrow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e672c608df7806e99148d0176149a316.png",
+    "Primal Darkness": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abd29236983e4d3d1bfd361b2e242111.png",
+    "Soul Eater": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_beba48ddc774a4267f72ba8a93666998.png",
+    "Garotte": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c2a0d728e05af9460c1cfa97bd0acd56.png",
+    "Blessing of the Moon Goddess": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3dbdc17e11dddcec7a3547f79de6f42c.png"
+  },
+  "Aldous": {
+    "Contract: Transform": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_17f31391481c569bdb6691e9feb3fc21.png",
+    "Contract: Soul Steal": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_39d2e1dab8a446d9d5adb5f4b564505c.png",
+    "Contract: Explosion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_523832f81d6deeaf65b1f9a0a4735591.png",
+    "Contract: Chase Fate": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f696f83c150449f6a691ce738ee6576.png"
+  },
+  "Claude": {
+    "Battle Side-by-side": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7d29db8de0b94e9eba7f11ccc9ba5fe.png",
+    "Art of Thievery": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_85c4a7d85b9e8cce8abd73103b799211.png",
+    "Battle Mirror Image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4ed9a12bdc87446ede283c2565818af.png",
+    "Blazing Duet": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b2f39bddfb464a59b108e8985af0bd57.png"
+  },
+  "Vale": {
+    "Windtalk": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0cc954742ae3f2acd7c50523c5d34172.png",
+    "Wind Blade": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1dbf6315ad50ccd40b818a1c5ec0a3b4.png",
+    "Windblow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_181d88da995a75cdfe00db1c0fd73d3d.png",
+    "Windstorm": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d37de1a3a365be9dab282f2fdbd9265.png"
+  },
+  "Leomord": {
+    "The Oath Keeper": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_04b94a8560d7cba08238b017a929611e.png",
+    "Momentum": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f95e7440099a5481f3082f48ca6b499d.png",
+    "Decimation Assault": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_658b998993378d3089b609649ae93270.png",
+    "Phantom Steed": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1f7fce40b8a283934077f2481b6d402.png",
+    "Phantom Stomp": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c8aff6534951b28bb0f4dd032892085a.png",
+    "Phantom Charge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e557b2c3334edde0a1029ac434ff3cc.png"
+  },
+  "Lunox": {
+    "Dreamland Twist": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_664a96f964b628fff553bf11064a9367.png",
+    "Starlight Pulse": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acf846262a6ad486ce0a7bc52ea7adeb.png",
+    "Chaos Assault ": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1785f547a0d65857cdd756fd248932ed.png",
+    "Cosmic Fission": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d67ac23319eff91169044a7d89484d77.png",
+    "Order & Chaos": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89f09bb6c7f9eece05e75759ca7eedef.png",
+    "Power of Order: Brilliance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_928f5ae97116806edf7fd06522aee9e9.png",
+    "Power of Chaos: Darkening": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3673d187cf12182b09ba1a0054ca0742.png"
+  },
+  "Hanzo": {
+    "Ame no Habakiri": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_ac365435698ba11d4cea185ab07f4f01.png",
+    "Ninjutsu: Demon Feast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_f61343a69edfc02eee75034e26f1098a.png",
+    "Ninjutsu: Dark Mist": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_83f7dbd47c58fba79f634a31f88e0ffe.png",
+    "Kinjutsu: Pinnacle Ninja": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_12b3b6f378728e25a1ccf0952c9f84bf.png",
+    "Forbidden Ninjutsu: Soul Snatch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_74eb2011217392bd06c2dc2cf9434731.png",
+    "Forbidden Ninjutsu: Black Mist": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_2e6bdaf0784cffb7c0a636b77dce95e7.png",
+    "Ninjutsu Flee: Return": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_47/100_d84a015788767e56209e80d5ee64ca8a.png"
+  },
+  "Belerick": {
+    "Deadly Thorns": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_570abe4ad1267c65f2c4f368a5f4add9.png",
+    "Ancient Seed": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5433e8607e73b325e705ad88ca513c98.png",
+    "Nature's Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd8021db8bc655e12a9de54aef597fb3.png",
+    "Wrath of Dryad": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8b1501526a70c36f4c89d7ab971f9eb0.png"
+  },
+  "Kimmy": {
+    "Aerial Dominance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_eeb909d230d71d199bbd3122a738b76b.png",
+    "Anti-Grav Thruster": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_493613c92ea4ee9483f41d659e8b5046.png",
+    "Starlium Beam": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_a12d486bc0fe88134bc844174b505943.png",
+    "Traction Pulse": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_642/100_df6d2e3daa34ffeacc637e53f9765bb8.png"
+  },
+  "Thamuz": {
+    "Grand Lord Lava": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_d051312911931ae72d9976cdd14c973d.png",
+    "Molten Scythes": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_e6071a86da476531ddcd6d386aa96f4a.png",
+    "Chasm Trample": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_40d76405ad463946a2cd7a742b69d19a.png",
+    "Cauterant Inferno": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_fa001f5f75ae598c8d362c04629ba328.png"
+  },
+  "Harith": {
+    "Key Insight": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f5ef9a005278e374f023e9279989be02.png",
+    "Synchro Fission": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f23c4399892794ed73e58a29352273c.png",
+    "Chrono Dash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1a0db4fd70a127b1733a6fc10261d4c5.png",
+    "Zaman Force": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_47c6f8c53a894420ae9c8ae05a81fa47.png"
+  },
+  "Minsitthar": {
+    "Mark of the King": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b8a08e978ceeacea5127e4503de0611b.png",
+    "Spear of Glory": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b6b93437d70ecd419f9f836e05842008.png",
+    "Shield Assault": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b3c57f1f179d03eba8a27d72cc4e6702.png",
+    "King's Calling": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d1da161bc8087d39ae7e3e50febef4f0.png"
+  },
+  "Kadita": {
+    "Thalassophobia": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cd01187439b79c1916a9c74a3b34a006.png",
+    "Ocean Ode": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_167f6356afa763ceaa72fdf875770531.png",
+    "Breath of the Ocean": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3533b6afa084dd8c756c563aac23933b.png",
+    "Rough Waves": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0a8e44d8b5f8c14be27daf7cb807008.png"
+  },
+  "Faramis": {
+    "Vicious Retrieval": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ce73fa0ade8a10b183814b1a73f4364d.png",
+    "Shadow Stampede": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b78fdaeaae006f2d188d3c19c33abe74.png",
+    "Ghost Bursters": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_27da095c2a1c8aea15d709ddaf3c0eaa.png",
+    "Nether Realm": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_894fc862a8e42832b70042e47b14943e.png"
+  },
+  "Badang": {
+    "Chivalry Fist": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_383d73841ef661aedaf2529abdf25e9e.png",
+    "Fist Wind": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1818e411e02a67d6dc086c65a8634392.png",
+    "Fist Break": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_caf5e5d46abcae913a11a2166ffb6979.png",
+    "Fist Crack": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6e140e6257393188d0b941bca2443577.png"
+  },
+  "Khufra": {
+    "Spell Curse": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d94c4dc00e5a3b21b0f57614ea52969d.png",
+    "Tyrant's Revenge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e0c4482b792fad7b1613c25e35c87c84.png",
+    "Bouncing Ball": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fce03edaa914b7eb06de1f158250c7bb.png",
+    "Tyrant's Rage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c789cf5a91de9659a3af64fa42f1c3bd.png"
+  },
+  "Granger": {
+    "Capriccio": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_bc047a2c81d46bab9fbb33613806eb2d.png",
+    "Rhapsody": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_4d4dbe5a7f0b4f112e719be3024cf8b0.png",
+    "Rondo": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_a33c876aa83af3bed09b1e6a8d16f638.png",
+    "Death Sonata": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_22/100_228164a926a169586aec6f69aa68a128.png"
+  },
+  "Guinevere": {
+    "Super Magic": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb87aa7f520dc67fcde6852598c241ca.png",
+    "Energy Wave": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_193275791eb7f707158fc5e277a29016.png",
+    "Spatial Migration": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5cd1df58957fa20b29e9c77d5b2067a9.png",
+    "Violet Requiem": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6ad5e6561bec9562a72584c18191a76a.png"
+  },
+  "Esmeralda": {
+    "Starmoon Casket": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fde2b66e35d103d9e71272a6d61381e8.png",
+    "Frostmoon Shield": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_00253b3e2e77dce506b07fe23755fe26.png",
+    "Stardust Dance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fd62ea376ea37da799123a8db3d853d9.png",
+    "Falling Starmoon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d95dd7c4b01c3a234a79ace93433a2c.png"
+  },
+  "Terizla": {
+    "Body of Smith": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b08818fe1736239ae3be7cf2d2dabf08.png",
+    "Revenge Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_75648daf275c81c11c68d0dc99ded14a.png",
+    "Execution Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0edb37acc50cca6239a839bdb96fea5c.png",
+    "Penalty Zone": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da9efd3bc3382173ceef6d14503894a2.png"
+  },
+  "X.Borg": {
+    "Firaga Armor": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_89f511f46d1e6c6db972cf7bb37924f5.png",
+    "Fire Missiles": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ee1680e53d5823b14f9989bc10bc719.png",
+    "Fire Stake": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9194fa592d8f77a7b9e9b1676e47b3e4.png",
+    "Last Insanity": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_fece4e752139100505f5eb2bd08390aa.png"
+  },
+  "Ling": {
+    "Cloud Walker": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_c6e3165a768cb3fa557a83c287b9f459.png",
+    "Finch Poise": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_aacda39b0b019760c392c77045c7aa9a.png",
+    "Defiant Sword": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_c212eef502f9086513e0d8b5ad0ef8bb.png",
+    "Tempest of Blades": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_f720a952a87a4873288aae54457aff7c.png"
+  },
+  "Dyrroth": {
+    "Wrath of the Abyss": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_ae1fdb44e6ccbe768170c1200dc1bb5a.png",
+    "Burst Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_7e6352d703b1c9ab808bc391f343442d.png",
+    "Spectre Step": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_79b3c08cdec6752a445d5d633c65c8eb.png",
+    "Abysm Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_15bf420f66a913f48b468b5830bd709a.png"
+  },
+  "Lylia": {
+    "Angry Gloom": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3e523892b88699da589a93bfd58d05d4.png",
+    "Magic Shockwave": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_891fd83e887a48389c4601114518f082.png",
+    "Shadow Energy": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_024d13f272ff865dc6fcf5aa2a2a1605.png",
+    "Black Shoes": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_24e26172faa7303b0a5db666cd23a0a4.png"
+  },
+  "Baxia": {
+    "Baxia Mark": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3d613bfe966ceef6b69452592a41820e.png",
+    "Baxia-Shield Unity": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6d88e98786a2d23d7d3f350a154a6d12.png",
+    "Shield of Spirit": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_66f13bc7bac649d5a92736041aede552.png",
+    "Tortoise’s Puissance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ebc90115517fd270e7c825e7724be631.png"
+  },
+  "Masha": {
+    "Ancient Strength": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_11fea6d6964fce2e229664f69b8b74a0.png",
+    "Wild Power": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e8d16ab8090bc35167878013b946b53f.png",
+    "Howl Shock": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18145750af85a40bbae3287f1ed47ebb.png",
+    "Thunderclap": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a7bd1cc6fe451768339602321771094a.png",
+    "Life Recovery": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_13f8eb8f71c22d308124486b630def4c.png"
+  },
+  "Wanwan": {
+    "Tiger Pace": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_78599b839d691545f6b6be60226bbed4.png",
+    "Swallow’s Path": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_283d9308b3df76c466b2f254a388f8dd.png",
+    "Needles in Flowers": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_790a739ceca6895fcaafd3df4514e9e1.png",
+    "Crossbow of Tang": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d562eb155a1d9a3e6dd94f4a9cbbc451.png"
+  },
+  "Silvanna": {
+    "Knightess' Resolve": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8a659e353c870bc077564afaaf4d8c2c.png",
+    "Cometic Lance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dbeca4aa319bdc1e24af7f53f6e6f8b9.png",
+    "Spiral Strangling": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e72b0d82cfd40062ad9bb1485232b91f.png",
+    "Imperial Justice": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef133226f4bc7ef8b815463980daa1a6.png"
+  },
+  "Cecilion": {
+    "Overflowing": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3d927bf75488e56e28187ea65cafcfa5.png",
+    "Bat Impact": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e3e1041a481d1f37d892f6489879a794.png",
+    "Sanguine Claws": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c03dcb05c090b95763374caea670a966.png",
+    "Bats Feast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dc9c4f09f975249b8587a6fdf61c8af3.png",
+    "Moonlit Waltz": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_44c27e7071734bb9f074bfa9c60c17b6.png"
+  },
+  "Carmilla": {
+    "Vampire Pact": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0260af174d1081a18480eee6545f98a6.png",
+    "Crimson Flower": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51eb6dcde53d88c4994426b112c13fde.png",
+    "Bloodbath": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_09ea2e1860eadfae10d82b2059fcef03.png",
+    "Curse of Blood": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f6939ef4e88964687c16976197b94451.png"
+  },
+  "Atlas": {
+    "Frigid Breath": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d7bbba4e6ab968ce1f1d798f29960198.png",
+    "Annihilate": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e329fe04072558085096e8198d9e15c8.png",
+    "Perfect Match": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_15c10ac17e273e24397333ae7900a72d.png",
+    "Fatal Links": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6b88d2df7f9a269a382e2cd256f9d816.png"
+  },
+  "Popol and Kupa": {
+    "We Are Friends": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae294efaf8078fdb791495649aac563d.png",
+    "Bite 'em, Kupa!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bdd55dca8cccb8db6059ed36a7bf4150.png",
+    "Kupa, Help!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_041619eeff63fa6b8ec5bee9c3af5591.png",
+    "Popol's Surprise": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8e90afefec90b007f23efd1d8a89f0dd.png",
+    "We Are Angry!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_247d588d97c1dffa73391a55002ed308.png"
+  },
+  "Yu Zhong": {
+    "Cursing Touch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_70130baa91b397c878074c763667da58.png",
+    "Dragon Tail": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_059500c39711fede4fa015c651fcb1f6.png",
+    "Soul Grip": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_a994b7307c97f871b488e98e31eb84de.png",
+    "Furious Dive": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_be320a759c57e0d449adf7afe97cdbd0.png",
+    "Black Dragon Form": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_936aca894105c4c9a4ee0a7b5a472438.png"
+  },
+  "Luo Yi": {
+    "Duality": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_55ccda55cadbf28d972b7878c6ed14fe.png",
+    "Dispersion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_05fb5366ff51181b744efcf51bc51dde.png",
+    "Rotation": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4e2479753eebe2d5bb68a2bc5875f74d.png",
+    "Diversion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_acb1a21a98666b2902d41370b8a18a77.png"
+  },
+  "Benedetta": {
+    "Elapsed Daytime": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dec94d48625abe29337a7dc247ae4089.png",
+    "Phantom Slash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ae06e5db054c1b94fcc70b2158828fc6.png",
+    "An Eye for An Eye": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_22cec07aed8f5e783996cfc99fbbcaf3.png",
+    "Alecto: Final Blow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d895c9df7f13247a57660597045267.png"
+  },
+  "Khaleed": {
+    "Sand Walk": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_de65492aeccc8a5738aa42de8a33141e.png",
+    "Desert Tornado": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d923b809f919ef60ae354ec162cc853.png",
+    "Quicksand Guard": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d70b9b7d9c0de2d528e8f86bcebe9093.png",
+    "Raging Sandstorm": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af48a3f5f3aaf4ea2f41f018fc51e92a.png"
+  },
+  "Barats": {
+    "Big Guy": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9d790cd46d08ab21d5cd0157a0c035c9.png",
+    "So-Called Teamwork": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d9d1ea11338786e2de0b748f9a796759.png",
+    "Missile \"Expert\"": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_df6e9b7c26bd4b99dec7b1e187dd9608.png",
+    "Detona's Welcome": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2dcd8888aaa6d28df61cd49eb89085b5.png"
+  },
+  "Brody": {
+    "Abyss Corrosion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f8af16b9b9818804317127362cc3e78f.png",
+    "Abyss Impact": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6635e0873a7cc48bac4bf4542c84e459.png",
+    "Corrosive Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e26469bd1e87124fe3aefbd15dddb127.png",
+    "Torn-Apart Memory": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_cbf0e2955ea6204995caf47e8082a376.png"
+  },
+  "Yve": {
+    "Galactic Power": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4ecac2e5d0fd547b1fe1a125069db9b0.png",
+    "Void Blast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2b0a9f9e2cbb187184165463c80380f1.png",
+    "Void Crystal": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_38145b234973cae3a6b7ca31aa75266c.png",
+    "Real World Manipulation": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee253ff416a10efd76a13cedce9aab4e.png"
+  },
+  "Mathilda": {
+    "Ancestral Guidance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f201e693e1129614b1b22047e28a4c2c.png",
+    "Soul Bloom": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4b41810acba280a3b6e9bba321bfbb74.png",
+    "Guiding Wind": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9c364f42f896209e76c50e9460a9395e.png",
+    "Circling Eagle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9dade03c4d55cf327e9f1cb279e99f29.png"
+  },
+  "Paquito": {
+    "Champ Stance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c9451df51335c47c1dd75bef800d037d.png",
+    "Heavy Left Punch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a885c745981e38cb336ca27d147f2bc6.png",
+    "Jab": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_322cb891727ea1c40e72f123c2d41e0d.png",
+    "Knockout Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_114ac52dbe3fe616904102fd4ac16d14.png"
+  },
+  "Gloo": {
+    "Stick, Stick": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4d78367e0a6c4f3269f64ddfad7f96d7.png",
+    "Slam, Slam": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+    "Spread, Spread": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_975a075bf3dc864116d9fd55ce33aedc.png",
+    "Grab, Grab": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8fe70f4873f1fc49155b072aa5f7c121.png"
+  },
+  "Beatrix": {
+    "Mechanical Genius": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e7d8fd33d2b89799aa46629090802b70.png",
+    "Masterful Gunner": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c59bfdb82953c1b910fda97509962795.png",
+    "Tactical Reposition": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bb64cd50d3e37c9d8343716b796fb2cb.png",
+    "Renner's Apathy": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5e6d76b308e486186c5e68846cdf4782.png",
+    "Need Backup": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10504a1a930e1e7c7de2f4f80dfdb0bd.png",
+    "Bennett's Rage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0cafa22d656d6a2c14cf5259d91762fa.png",
+    "Wesker's Elation": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_884ac3de4fc2cdbe0dc506e62b9bb4f0.png",
+    "Nibiru's Passion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c3b4d741305b9662e5295a0425b2a1a7.png"
+  },
+  "Phoveus": {
+    "Demonic Force": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_be31ba6b65c2da1b4d2d0961ee1ffd85.png",
+    "Demonic Impact": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_5748e21d6ff5231b05a6acae7d4665c1.png",
+    "Dark Wave": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_0e6fc7263f921c1084d7a47805648fab.png",
+    "Infernal Pursuit": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_06/100_f1495854e2617d141ea8d04462c80ba5.png"
+  },
+  "Natan": {
+    "Theory of Everything": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_46d9e05fa708f5acf2026d596a406f0f.png",
+    "Superposition": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f70bd309c626de414c448bfb83bddd6.png",
+    "Interference!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6cc955ea774b6680a2868fdd186042cf.png",
+    "Entropy?": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ec8eba4cade95718ecb5895f571a8e87.png"
+  },
+  "Aulus": {
+    "Fighting Spirit": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7c4332cf35097a899d0081622974fc30.png",
+    "Aulus, Charge!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac3d6ad3a919532d4254a1102cd2a0f.png",
+    "The Power of Axe": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_37c793b8c6ae49e9c85a2b80c796e3a8.png",
+    "Undying Fury": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b1902ab838ff6bc7c0eab00e15822a9c.png"
+  },
+  "Aamon": {
+    "Invisible Armor": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_96583b8721481fe151eceeb4d17f089c.png",
+    "Soul Shards": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_51b68183615922a3891919cd0a0d5536.png",
+    "Slayer Shards": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_db82969869000375f7e6f1ab7ae895b3.png",
+    "Endless Shards": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fe1e567c14d3bd648184285b7d9d427.png"
+  },
+  "Valentina": {
+    "Primal Force": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f2707973fdd30d201d53b1ff21d1a6c7.png",
+    "Shadow Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b94bb62631a5dafb525050bffb68de7e.png",
+    "Arcane Shade": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_69e8d02ef8e1ae83895754e670f63e2e.png",
+    "I Am You": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ee7ae2c3b2074399fa3cdb5e5271630e.png"
+  },
+  "Edith": {
+    "Overload": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2fea4f679f7fd59d6ee9062960fe8cb8.png",
+    "Earth Shatter": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87a69f221b26b4ce2d0443e876ea8eba.png",
+    "Onward": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3f3bd7205e18b8af21c1e04ba5d8aafe.png",
+    "Primal Wrath": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ef6910865a6be662572e4f8b43dc7a5a.png",
+    "Divine Retribution": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0afd44b80c98596aaf29cafb3b3a8a1f.png",
+    "Lightning Bolt": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bc15a9e8821ea55e507269a984459154.png"
+  },
+  "Floryn": {
+    "Dew": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7b2320a33e912817ca37da52c9d09c57.png",
+    "Sow": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c6013f24a0d60e559d6d0ec3ed98b3fe.png",
+    "Sprout": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_8eaeefe76d960607dafc49229eb08597.png",
+    "Bloom": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_03fedb79f8a7dec957408802fa28f840.png"
+  },
+  "Yin": {
+    "Leave It to Me": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_10e337fa6398a8ea4a471155c8c22c1c.png",
+    "Charged Punch": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_927d2396bfbe124ced32fec90158a316.png",
+    "Instant Blast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bd208d41c28fbdc474d8381a52a5048b.png",
+    "My Turn": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_772f992a2b08481a7d0f876e1c1ace56.png",
+    "Frenzy Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e34f614b0fe2d29abc6364e3a2ab4969.png"
+  },
+  "Melissa": {
+    "Doll Buster": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_1885d2903ffe007effddfef83f69f28f.png",
+    "Falling!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c00db06b0bccee41a914ec8301feed2b.png",
+    "Eyes on You!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5f7c343dbca6eb726c39c44f46397e47.png",
+    "Go Away!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_b5b3a37f13c02756c783788a2e2d675f.png"
+  },
+  "Xavier": {
+    "Transcendence": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_53a9a675ae08ad46997b51645b3972e8.png",
+    "Infinite Extension": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a8f6f17020d9e302435a06a91a9c299.png",
+    "Mystic Field": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_328458b4a72433c00a3eca893c267366.png",
+    "Dawning Light": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9a6d1b10e75be07744732ede3704a3fb.png"
+  },
+  "Julian": {
+    "Smith's Legacy": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6959e0e4dc3c4aebc7d311b1d96a1f4.png",
+    "Scythe": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_00c9de405a78fdd50226b61d82c6d0eb.png",
+    "Sword": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d6613dbbb34db5ff5721d4837d765399.png",
+    "Chain": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_45cad9ef470209b6a039b6817d231ad7.png",
+    "Enhanced Scythe": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0a8cc82e7f9998f630f34f04c61d3595.png",
+    "Enhanced Sword": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_abbe31d7d1b9e919608e280b8ac74a3d.png",
+    "Enhanced Chain": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_3b0519e2fe149c133739e4ba3acd8475.png"
+  },
+  "Fredrinn": {
+    "Crystalline Armor": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_ffe5821a5ea1c1bd39f0db4f2cef947d.png",
+    "Piercing Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_4945b0e50c9f2fdad8814a8451861a86.png",
+    "Brave Assault": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_dcd1b03082da5a690ba7a45196d5ff13.png",
+    "Energy Eruption": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_570fe86736751672026a324870814810.png",
+    "Appraiser's Wrath": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f23724d54ba68c04914a6ea2d0bb15d0.png"
+  },
+  "Joy": {
+    "Humph, Joy's Angry!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_2e3f79d1e66691e8d89cacca211ed231.png",
+    "Look, Leonin Crystal!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_608b4796b7497e4552f9785a3d4331db.png",
+    "Meow, Rhythm of Joy!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a500868582b10eec96f338ed3922d3eb.png",
+    "Ha, Electrifying Beats!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_86eed96e7e3e2172313ffe1382ffdc9a.png"
+  },
+  "Novaria": {
+    "Star Trail": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5ccfda460fb3ed4b4d044247fbe72ff0.png",
+    "Astral Meteor": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_276900dd1748403fba313aa10476e8f0.png",
+    "Astral Recall": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_18a74de4a5f949bac5b6d3a6d8a9180b.png",
+    "Astral Echo": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_76e8b6d3cb047f2b5f1a3d21469b40f6.png"
+  },
+  "Arlott": {
+    "Demon Gaze": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_98ae9dc84bff0054295750fee5f63035.png",
+    "Dauntless Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_bf3b2fb8a6fd0341b092063718a5b9b4.png",
+    "Vengeance": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7f7f82e7e9c261133710db979e42a589.png",
+    "Final Slash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_af90127587cb7de4dbd3bfcea3307021.png"
+  },
+  "Ixia": {
+    "Siphon Starlium": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0b28b73c43760afb3539979ea9d5c312.png",
+    "Dual Beam": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a8abf9eeb77d6cb3afccd0bd4bb9d772.png",
+    "Star Helix": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f4f780b9ada962f9e52903d9ad5359fd.png",
+    "Full Barrage": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da280fb5742c603e295f58bf621d50c1.png"
+  },
+  "Nolan": {
+    "Dimensional Rift": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_655b024d09823ec48d3557e202a404b7.png",
+    "Expansion": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f9e7e389d9aa59fb42aff11a2303cf1c.png",
+    "Gauge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_23fc06b2b01c5abdf0c91182ab8eebc0.png",
+    "Fracture": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_a24a1a342fb4f6bd6f1d59de13e77a05.png"
+  },
+  "Cici": {
+    "Performer's Delight": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6d7f05670808b2e7662aab8303594fc5.png",
+    "Yo-Yo Blitz": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_35698dd184befabba3199661018bdf38.png",
+    "Buoyant Bounce": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f49eea2c0866fad182a898eedb8afc72.png",
+    "Curtain Call": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c0b792bde3a635cb3534035683f5429f.png"
+  },
+  "Chip": {
+    "Snack Time!": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_87767306b09462d012792603a99a862c.png",
+    "Crash Course": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c987058022e063daaea8fc776031d91b.png",
+    "Overtime": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_d13538864552a2e6091a969c80c08b5d.png",
+    "Shortcut": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_9ac68239747eb8bf2f056394e35d8712.png",
+    "Why Walk?": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_f607176ca4b8d9e639f598a31594c37a.png"
+  },
+  "Zhuxin": {
+    "Crimson Butterflies": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_43020fccd51aa7420c2c8b76a2cdb4fe.png",
+    "Fluttering Grace": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_155343c85c52dfccbf7697d353e115bd.png",
+    "Lantern Flare": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_0eb6ec4236fd89a8ea6041edf0868569.png",
+    "Crimson Beacon": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_a6ca23dff19dee8f2f26740ce29b47a9.png"
+  },
+  "Suyou": {
+    "Transient Immortal": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_8b4882f70a3c4538683a2cb8739c7027.png",
+    "Blade Surge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_f19d61842474b4be077095114cb7a2bd.png",
+    "Soul Sever": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_4a0a58432d841803b33982fe1918bfe2.png",
+    "Evil Queller": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_34cdeedb104693a99738e1cad6dda2ec.png"
+  },
+  "Lukas": {
+    "Hero's Resolve": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_eed80b0f3a9b855d178f5eb70c3542d9.png",
+    "Flash Combo": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_31b3aadc6fbf508e4782bc8c36df3008.png",
+    "Flash Step": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_c9cc9b1c2e6b95fcef9a4fb7e0c0523a.png",
+    "Unleash the Beast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_69c87e95e3d408841b93aa522715df00.png",
+    "Shockwave Blast": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_42/100_c751fb684db1294450cb37cb333ca558.png"
+  },
+  "Kalea": {
+    "Surge of Life": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_1d60372b6081b1d9aa2493a6939d38a1.png",
+    "Wavebreaker": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_e5ccc8c144997bb6676fe8199bc9979b.png",
+    "Tidal Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_6cc2f9fe1c18c569d0f327e29f0c77fa.png",
+    "Tsunami Slam": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_ff24a8b43cd23f1be612856e11e8e761.png"
+  },
+  "Zetian": {
+    "Celestial Armament": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_44934a50e133cbe0387d520f0eafd0bb.png",
+    "Phoenix Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_d9814f641d7040f425863cbb9733ce57.png",
+    "Phoenix Descent": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_174652aa9781ef344273263d39f6d5ed.png",
+    "Fury of the Phoenix": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_c4ad79c62c6d69f54cae3baf2b8ac69d.png"
+  },
+  "Obsidia": {
+    "Return to Bone": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_636c671e6ea7c9fd89e992c42fb9f4dc.png",
+    "Abyssal Bone Needle": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_6a6cfd77d892164ae8fbb98819a7233b.png",
+    "Phantom Shadowmeld": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_27b8bf74b5f22a09a7ae1e4d0c69c056.png",
+    "Hunt of Bone": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_4b023cbf620869d7596b5e87e467c7c8.png"
+  },
+  "Sora": {
+    "Mystic Surge": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_3612a82fab54424686631e59c7a8c322.png",
+    "Sundering Strike": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_3e241dd044b166bccbc62957f2aaf0f8.png",
+    "Windstride": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_14dbfe16a6a19c482ecc88eb0d9307a7.png",
+    "Shifting Skies": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_cea96e22851430931feb523f9bfac657.png",
+    "Sundering Strike - Thunderflash": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_e7981942a32da2499ed7ee5d955274bf.png",
+    "Windstride - Thunder Rush": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_44c7378609f0dbc2cbc31eda36e1b41d.png",
+    "Heaven's Wrath": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_7dd6e441e24c876f2a908d7bb23f91bb.png",
+    "Sundering Strike - Overwhelm": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_6d3d6f49e87e9b470decddd96ceeb8f7.png",
+    "Windstride - Skyfall": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_6238f98e4a8ecc15e9ab7787882edce9.png",
+    "Stormbind": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_110416b6328d192138f7a74c88f96242.png"
+  }
+}
